@@ -1,0 +1,722 @@
+[
+  {
+    "round": "\n         ",
+    "pick": "Rnd",
+    "team": "\n         ",
+    "player_name": "Pick",
+    "position": "\n         ",
+    "college": "\n         "
+  },
+  {
+    "round": "1",
+    "pick": "1",
+    "team": "PHI",
+    "player_name": "Jay Berwanger",
+    "position": "B",
+    "college": "Chicago"
+  },
+  {
+    "round": "1",
+    "pick": "2",
+    "team": "BOS",
+    "player_name": "Riley Smith",
+    "position": "BB",
+    "college": "Alabama"
+  },
+  {
+    "round": "1",
+    "pick": "3",
+    "team": "PIT",
+    "player_name": "Bill Shakespeare",
+    "position": "B",
+    "college": "Notre Dame"
+  },
+  {
+    "round": "1",
+    "pick": "4",
+    "team": "BKN",
+    "player_name": "Dick Crayne",
+    "position": "FB",
+    "college": "Iowa"
+  },
+  {
+    "round": "1",
+    "pick": "5",
+    "team": "CRD",
+    "player_name": "Jimmy Lawrence",
+    "position": "WB",
+    "college": "TCU"
+  },
+  {
+    "round": "1",
+    "pick": "6",
+    "team": "CHI",
+    "player_name": "Joe Stydahar HOF",
+    "position": "T",
+    "college": "West Virginia"
+  },
+  {
+    "round": "1",
+    "pick": "7",
+    "team": "GNB",
+    "player_name": "Russ Letlow",
+    "position": "G",
+    "college": "San Francisco"
+  },
+  {
+    "round": "1",
+    "pick": "8",
+    "team": "DET",
+    "player_name": "Sid Wagner",
+    "position": "G",
+    "college": "Michigan St."
+  },
+  {
+    "round": "1",
+    "pick": "9",
+    "team": "NYG",
+    "player_name": "Art Lewis",
+    "position": "T",
+    "college": "Ohio"
+  },
+  {
+    "round": "\n         ",
+    "pick": "Rnd",
+    "team": "\n         ",
+    "player_name": "Pick",
+    "position": "\n         ",
+    "college": "\n         "
+  },
+  {
+    "round": "2",
+    "pick": "10",
+    "team": "PHI",
+    "player_name": "John McCauley",
+    "position": "B",
+    "college": "Rice"
+  },
+  {
+    "round": "2",
+    "pick": "11",
+    "team": "BOS",
+    "player_name": "Keith Topping",
+    "position": "E",
+    "college": "Stanford"
+  },
+  {
+    "round": "2",
+    "pick": "12",
+    "team": "PIT",
+    "player_name": "Len Barnum",
+    "position": "B",
+    "college": "West Virginia Wesleyan"
+  },
+  {
+    "round": "2",
+    "pick": "13",
+    "team": "BKN",
+    "player_name": "Vernal (Babe) LeVoir",
+    "position": "B",
+    "college": "Minnesota"
+  },
+  {
+    "round": "2",
+    "pick": "14",
+    "team": "CHI",
+    "player_name": "Eddie Michaels",
+    "position": "G",
+    "college": "Villanova"
+  },
+  {
+    "round": "2",
+    "pick": "15",
+    "team": "CRD",
+    "player_name": "Gomer Jones",
+    "position": "C",
+    "college": "Ohio St."
+  },
+  {
+    "round": "2",
+    "pick": "16",
+    "team": "GNB",
+    "player_name": "J.W. Wheeler",
+    "position": "T",
+    "college": "Oklahoma"
+  },
+  {
+    "round": "2",
+    "pick": "17",
+    "team": "DET",
+    "player_name": "Chuck Cheshire",
+    "position": "B",
+    "college": "UCLA"
+  },
+  {
+    "round": "2",
+    "pick": "18",
+    "team": "NYG",
+    "player_name": "Tuffy Leemans HOF",
+    "position": "FB",
+    "college": "George Washington"
+  },
+  {
+    "round": "\n         ",
+    "pick": "Rnd",
+    "team": "\n         ",
+    "player_name": "Pick",
+    "position": "\n         ",
+    "college": "\n         "
+  },
+  {
+    "round": "3",
+    "pick": "19",
+    "team": "PHI",
+    "player_name": "Wes Muller",
+    "position": "C",
+    "college": "Stanford"
+  },
+  {
+    "round": "3",
+    "pick": "20",
+    "team": "BOS",
+    "player_name": "Ed Smith",
+    "position": "BB",
+    "college": "NYU"
+  },
+  {
+    "round": "3",
+    "pick": "21",
+    "team": "PIT",
+    "player_name": "Bobby Grayson",
+    "position": "B",
+    "college": "Stanford"
+  },
+  {
+    "round": "3",
+    "pick": "22",
+    "team": "BKN",
+    "player_name": "Wagner Jorgensen",
+    "position": "C",
+    "college": "St. Mary's (CA)"
+  },
+  {
+    "round": "3",
+    "pick": "23",
+    "team": "CRD",
+    "player_name": "Eddie Erdelatz",
+    "position": "E",
+    "college": ""
+  },
+  {
+    "round": "3",
+    "pick": "24",
+    "team": "CHI",
+    "player_name": "George Roscoe",
+    "position": "B",
+    "college": "Minnesota"
+  },
+  {
+    "round": "3",
+    "pick": "25",
+    "team": "GNB",
+    "player_name": "Bernie Scherer",
+    "position": "E",
+    "college": "Nebraska"
+  },
+  {
+    "round": "3",
+    "pick": "26",
+    "team": "DET",
+    "player_name": "Andy Pilney",
+    "position": "B",
+    "college": "Notre Dame"
+  },
+  {
+    "round": "3",
+    "pick": "27",
+    "team": "NYG",
+    "player_name": "Frank (Butch) Loebs",
+    "position": "E",
+    "college": "Purdue"
+  },
+  {
+    "round": "\n         ",
+    "pick": "Rnd",
+    "team": "\n         ",
+    "player_name": "Pick",
+    "position": "\n         ",
+    "college": "\n         "
+  },
+  {
+    "round": "4",
+    "pick": "28",
+    "team": "PHI",
+    "player_name": "Bill Wallace",
+    "position": "B",
+    "college": "Rice"
+  },
+  {
+    "round": "4",
+    "pick": "29",
+    "team": "BOS",
+    "player_name": "Paul Tangora",
+    "position": "G",
+    "college": "Northwestern"
+  },
+  {
+    "round": "4",
+    "pick": "30",
+    "team": "PIT",
+    "player_name": "Truman Spain",
+    "position": "T",
+    "college": "SMU"
+  },
+  {
+    "round": "4",
+    "pick": "31",
+    "team": "BKN",
+    "player_name": "Paul (Bear) Bryant",
+    "position": "E",
+    "college": "Alabama"
+  },
+  {
+    "round": "4",
+    "pick": "32",
+    "team": "CHI",
+    "player_name": "Bob Allman",
+    "position": "E",
+    "college": "Michigan St."
+  },
+  {
+    "round": "4",
+    "pick": "33",
+    "team": "CRD",
+    "player_name": "Jeep Brett",
+    "position": "E",
+    "college": "Washington St."
+  },
+  {
+    "round": "4",
+    "pick": "34",
+    "team": "GNB",
+    "player_name": "Theron Ward",
+    "position": "B",
+    "college": "Idaho"
+  },
+  {
+    "round": "4",
+    "pick": "35",
+    "team": "DET",
+    "player_name": "Sheldon Beise",
+    "position": "B",
+    "college": "Minnesota"
+  },
+  {
+    "round": "4",
+    "pick": "36",
+    "team": "NYG",
+    "player_name": "Gene Rose",
+    "position": "E",
+    "college": "Tennessee"
+  },
+  {
+    "round": "\n         ",
+    "pick": "Rnd",
+    "team": "\n         ",
+    "player_name": "Pick",
+    "position": "\n         ",
+    "college": "\n         "
+  },
+  {
+    "round": "5",
+    "pick": "37",
+    "team": "PHI",
+    "player_name": "Harry Shuford",
+    "position": "B",
+    "college": "SMU"
+  },
+  {
+    "round": "5",
+    "pick": "38",
+    "team": "BOS",
+    "player_name": "Wilson Groseclose",
+    "position": "T",
+    "college": "TCU"
+  },
+  {
+    "round": "5",
+    "pick": "39",
+    "team": "PIT",
+    "player_name": "Dick Sandefur",
+    "position": "FB",
+    "college": "Purdue"
+  },
+  {
+    "round": "5",
+    "pick": "40",
+    "team": "BKN",
+    "player_name": "Bobby Wilson",
+    "position": "TB",
+    "college": "SMU"
+  },
+  {
+    "round": "5",
+    "pick": "41",
+    "team": "CRD",
+    "player_name": "Stan Riordan",
+    "position": "E",
+    "college": "Oregon"
+  },
+  {
+    "round": "5",
+    "pick": "42",
+    "team": "CHI",
+    "player_name": "Verne Oech",
+    "position": "G",
+    "college": "Minnesota"
+  },
+  {
+    "round": "5",
+    "pick": "43",
+    "team": "GNB",
+    "player_name": "Darrell Lester",
+    "position": "C",
+    "college": "TCU"
+  },
+  {
+    "round": "5",
+    "pick": "44",
+    "team": "DET",
+    "player_name": "Kavanaugh Francis",
+    "position": "C",
+    "college": "Alabama"
+  },
+  {
+    "round": "5",
+    "pick": "45",
+    "team": "NYG",
+    "player_name": "Ed Jontos",
+    "position": "G",
+    "college": "Syracuse"
+  },
+  {
+    "round": "\n         ",
+    "pick": "Rnd",
+    "team": "\n         ",
+    "player_name": "Pick",
+    "position": "\n         ",
+    "college": "\n         "
+  },
+  {
+    "round": "6",
+    "pick": "46",
+    "team": "PHI",
+    "player_name": "Al Barabas",
+    "position": "B",
+    "college": "Columbia"
+  },
+  {
+    "round": "6",
+    "pick": "47",
+    "team": "BOS",
+    "player_name": "Larry Lutz",
+    "position": "T",
+    "college": "California"
+  },
+  {
+    "round": "6",
+    "pick": "48",
+    "team": "PIT",
+    "player_name": "Maurice Orr",
+    "position": "T",
+    "college": "SMU"
+  },
+  {
+    "round": "6",
+    "pick": "49",
+    "team": "BKN",
+    "player_name": "Joe Maniaci",
+    "position": "B",
+    "college": "Fordham"
+  },
+  {
+    "round": "6",
+    "pick": "50",
+    "team": "CHI",
+    "player_name": "Ted Christofferson",
+    "position": "B",
+    "college": "Washington St."
+  },
+  {
+    "round": "6",
+    "pick": "51",
+    "team": "CRD",
+    "player_name": "Ettore Antonini",
+    "position": "E",
+    "college": "Indiana"
+  },
+  {
+    "round": "6",
+    "pick": "52",
+    "team": "GNB",
+    "player_name": "Bob Reynolds",
+    "position": "T",
+    "college": "Stanford"
+  },
+  {
+    "round": "6",
+    "pick": "53",
+    "team": "DET",
+    "player_name": "Abe Mickal",
+    "position": "B",
+    "college": "LSU"
+  },
+  {
+    "round": "6",
+    "pick": "54",
+    "team": "NYG",
+    "player_name": "Gus Durner",
+    "position": "T",
+    "college": "Duke"
+  },
+  {
+    "round": "\n         ",
+    "pick": "Rnd",
+    "team": "\n         ",
+    "player_name": "Pick",
+    "position": "\n         ",
+    "college": "\n         "
+  },
+  {
+    "round": "7",
+    "pick": "55",
+    "team": "PHI",
+    "player_name": "Jack Weller",
+    "position": "G",
+    "college": "Princeton"
+  },
+  {
+    "round": "7",
+    "pick": "56",
+    "team": "BOS",
+    "player_name": "Don Irwin",
+    "position": "FB",
+    "college": "Colgate"
+  },
+  {
+    "round": "7",
+    "pick": "57",
+    "team": "PIT",
+    "player_name": "Marty Peters",
+    "position": "E",
+    "college": "Notre Dame"
+  },
+  {
+    "round": "7",
+    "pick": "58",
+    "team": "BKN",
+    "player_name": "Herb Schreiber",
+    "position": "B",
+    "college": ""
+  },
+  {
+    "round": "7",
+    "pick": "59",
+    "team": "CRD",
+    "player_name": "Tack Dennis",
+    "position": "B",
+    "college": "Tulsa"
+  },
+  {
+    "round": "7",
+    "pick": "60",
+    "team": "CHI",
+    "player_name": "Dick Smith",
+    "position": "T",
+    "college": "Minnesota"
+  },
+  {
+    "round": "7",
+    "pick": "61",
+    "team": "GNB",
+    "player_name": "Wally Fromhart",
+    "position": "B",
+    "college": "Notre Dame"
+  },
+  {
+    "round": "7",
+    "pick": "62",
+    "team": "DET",
+    "player_name": "Charlie Wasicek",
+    "position": "T",
+    "college": "Colgate"
+  },
+  {
+    "round": "7",
+    "pick": "63",
+    "team": "NYG",
+    "player_name": "Bob Peeples",
+    "position": "T",
+    "college": "Marquette"
+  },
+  {
+    "round": "\n         ",
+    "pick": "Rnd",
+    "team": "\n         ",
+    "player_name": "Pick",
+    "position": "\n         ",
+    "college": "\n         "
+  },
+  {
+    "round": "8",
+    "pick": "64",
+    "team": "PHI",
+    "player_name": "Pepper Constable",
+    "position": "B",
+    "college": "Princeton"
+  },
+  {
+    "round": "8",
+    "pick": "65",
+    "team": "BOS",
+    "player_name": "Wayne Millner HOF",
+    "position": "E",
+    "college": "Notre Dame"
+  },
+  {
+    "round": "8",
+    "pick": "66",
+    "team": "PIT",
+    "player_name": "Ed Karpowich",
+    "position": "T",
+    "college": "Catholic"
+  },
+  {
+    "round": "8",
+    "pick": "67",
+    "team": "BKN",
+    "player_name": "Bob (Bones) Hamilton",
+    "position": "B",
+    "college": "Stanford"
+  },
+  {
+    "round": "8",
+    "pick": "68",
+    "team": "CHI",
+    "player_name": "John Sylvester",
+    "position": "E",
+    "college": "Rice"
+  },
+  {
+    "round": "8",
+    "pick": "69",
+    "team": "CRD",
+    "player_name": "Ross Carter",
+    "position": "G",
+    "college": "Oregon"
+  },
+  {
+    "round": "8",
+    "pick": "70",
+    "team": "GNB",
+    "player_name": "Wally Cruice",
+    "position": "B",
+    "college": "Northwestern"
+  },
+  {
+    "round": "8",
+    "pick": "71",
+    "team": "DET",
+    "player_name": "Dale Rennebohm",
+    "position": "C",
+    "college": "Minnesota"
+  },
+  {
+    "round": "8",
+    "pick": "72",
+    "team": "NYG",
+    "player_name": "Dick Heekin",
+    "position": "B",
+    "college": "Ohio St."
+  },
+  {
+    "round": "\n         ",
+    "pick": "Rnd",
+    "team": "\n         ",
+    "player_name": "Pick",
+    "position": "\n         ",
+    "college": "\n         "
+  },
+  {
+    "round": "9",
+    "pick": "73",
+    "team": "PHI",
+    "player_name": "Paul Pauk",
+    "position": "B",
+    "college": "Princeton"
+  },
+  {
+    "round": "9",
+    "pick": "74",
+    "team": "BOS",
+    "player_name": "Marcel Saunders",
+    "position": "G",
+    "college": "Loyola Marymount"
+  },
+  {
+    "round": "9",
+    "pick": "75",
+    "team": "PIT",
+    "player_name": "Joe Meglen",
+    "position": "B",
+    "college": ""
+  },
+  {
+    "round": "9",
+    "pick": "76",
+    "team": "BKN",
+    "player_name": "Monk Moscrip",
+    "position": "E",
+    "college": "Stanford"
+  },
+  {
+    "round": "9",
+    "pick": "77",
+    "team": "CRD",
+    "player_name": "Niels Larsen",
+    "position": "T",
+    "college": "Stanford"
+  },
+  {
+    "round": "9",
+    "pick": "78",
+    "team": "CHI",
+    "player_name": "Danny Fortmann HOF",
+    "position": "G",
+    "college": "Colgate"
+  },
+  {
+    "round": "9",
+    "pick": "79",
+    "team": "GNB",
+    "player_name": "J.C. Wetsel",
+    "position": "G",
+    "college": "SMU"
+  },
+  {
+    "round": "9",
+    "pick": "80",
+    "team": "DET",
+    "player_name": "Bob (Choo-Choo) Train",
+    "position": "E",
+    "college": "Yale"
+  },
+  {
+    "round": "9",
+    "pick": "81",
+    "team": "NYG",
+    "player_name": "Phil Flanagan",
+    "position": "G",
+    "college": "Holy Cross"
+  }
+]
