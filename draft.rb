@@ -2,6 +2,7 @@ require 'open-uri'
 require 'nokogiri'
 require 'pry'
 require 'json'
+require 'csv'
 
 url = 'https://www.pro-football-reference.com/years/1936/draft.htm'
 html = open(url)
@@ -15,25 +16,53 @@ count = table.search('tr').count
 table = table.search('tr')
 
 table.shift
-table.shift
+#table.shift
 
 table.each do |tr|
-	
-	drafted_players.push(
-	round: tr.children[0].text,
-	pick:  tr.children[1].text,
-	team: tr.children[2].text,
-	player_name: tr.children[3].text,
-	position: tr.children[4].text,
-	college: tr.children[26].text
-	)
-	
+
+	if tr.children[0].text == "\n         "  && drafted_players.count == 0
+
+		drafted_players.push(
+		round: tr.children[1].text,
+		pick: tr.children[3].text,
+		team: tr.children[5].text,
+		player_name: tr.children[7].text,
+		position: tr.children[9].text,
+		age: tr.children[11].text,
+		college: tr.children[53]
+		)
+
+		puts drafted_players
+	#elsif tr.content[0] != "\n" && drafted_players[0] == "Rnd"
+	#elsif drafted_players[0] == "Rnd" && tr.children[0].text != "\n         "
+	elsif tr.children[0].text != "\n         "
+
+		drafted_players.push(
+		round: tr.children[0].text,
+		pick:  tr.children[1].text,
+		team: tr.children[2].text,
+		player_name: tr.children[3].text,
+		position: tr.children[4].text,
+		age: tr.children[5].text,		
+		college: tr.children[26].text
+		)
+		
+		puts drafted_players
+	end
 	puts drafted_players
 
 end
 
-json = JSON.pretty_generate(drafted_players)
-File.open("drafted_players.json", 'w') { |file| file.write(json) }
+#json = JSON.pretty_generate(drafted_players)
+#File.open("drafted_players.json", 'w') { |file| file.write(json) }
+
+CSV.open("drafted_players.csv", 'wb') do |csv|
+	drafted_players.each do |hash|
+		csv << hash.values
+	end
+end
+
+
 #table.search('tr').each do |tr|
 
 #	row = tr.search('th, td')
