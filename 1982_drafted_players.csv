@@ -1,0 +1,335 @@
+1982,Rnd,Pick,Tm,Player,Pos,Age,College/Univ
+1982,1,1,NWE,Kenneth Sims,DE,22,Texas
+1982,1,2,BAL,Johnie Cooks,LB,23,Mississippi St.
+1982,1,3,CLE,Chip Banks,LB,22,USC
+1982,1,4,BAL,Art Schlichter,QB,22,Ohio St.
+1982,1,5,CHI,Jim McMahon,QB,23,BYU
+1982,1,6,SEA,Jeff Bryant,DE,22,Clemson
+1982,1,7,MIN,Darrin Nelson,RB,23,Stanford
+1982,1,8,HOU,Mike Munchak HOF,G,22,Penn St.
+1982,1,9,ATL,Gerald Riggs,RB,21,Arizona St.
+1982,1,10,RAI,Marcus Allen HOF,RB,22,USC
+1982,1,11,KAN,Anthony Hancock,WR,22,Tennessee
+1982,1,12,PIT,Walter Abercrombie,RB,22,Baylor
+1982,1,13,NOR,Lindsay Scott,WR,21,Georgia
+1982,1,14,RAM,Barry Redden,RB,22,Richmond
+1982,1,15,DET,Jimmy Williams,LB,21,Nebraska
+1982,1,16,STL,Luis Sharpe,T,22,UCLA
+1982,1,17,TAM,Sean Farrell,G,22,Penn St.
+1982,1,18,NYG,Butch Woolfolk,RB,22,Michigan
+1982,1,19,BUF,Perry Tuttle,WR,23,Clemson
+1982,1,20,PHI,Mike Quick,WR,23,North Carolina St.
+1982,1,21,DEN,Gerald Willhite,RB,23,San Jose St.
+1982,1,22,GNB,Ron Hallstrom,G,23,Iowa
+1982,1,23,NYJ,Bob Crable,LB,22,Notre Dame
+1982,1,24,MIA,Roy Foster,G,22,USC
+1982,1,25,DAL,Rod Hill,DB,23,Kentucky St.
+1982,1,26,CIN,Glen Collins,DE,23,Mississippi St.
+1982,1,27,NWE,Lester Williams,NT,23,Miami (FL)
+1982,2,28,BAL,Leo Wisniewski,NT,22,Penn St.
+1982,2,29,SFO,Bubba Paris,T,21,Michigan
+1982,2,30,NOR,Brad Edelman,G,22,Missouri
+1982,2,31,CLE,Keith Baldwin,DE,21,Texas A&M
+1982,2,32,TAM,Booker Reese,DE,22,Bethune-Cookman
+1982,2,33,SEA,Bruce Scholtz,LB,23,Texas
+1982,2,34,BAL,Rohn Stark,P,23,Florida St.
+1982,2,35,RAI,Jack Squirek,LB,23,Illinois
+1982,2,36,ATL,Doug Rogers,DE,22,Stanford
+1982,2,37,RAI,Jim Romano,C,23,Penn St.
+1982,2,38,STL,David Galloway,DT,23,Florida
+1982,2,39,MIN,Terry Tausch,G,23,Texas
+1982,2,40,NWE,Robert Weathers,RB,21,Arizona St.
+1982,2,41,NWE,Andre Tippett HOF,LB,22,Iowa
+1982,2,42,DET,Bobby Watkins,DB,22,Texas St.
+1982,2,43,PIT,John Meyer,T,"",Arizona St.
+1982,2,44,HOU,Oliver Luck,QB,22,West Virginia
+1982,2,45,NYG,Joe Morris,RB,21,Syracuse
+1982,2,46,KAN,Calvin Daniels,LB,23,North Carolina
+1982,2,47,PHI,Lawrence Sampleton,TE,22,Texas
+1982,2,48,BUF,Matt Kofler,QB,23,San Diego St.
+1982,2,49,WAS,Vernon Dean,DB,23,San Diego St.
+1982,2,50,DEN,Orlando McDaniel,WR,21,LSU
+1982,2,51,NYJ,Reggie McElroy,T,22,West Texas A&M
+1982,2,52,MIA,Mark Duper,WR,23,NW State (LA)
+1982,2,53,DAL,Jeff Rohrer,LB,23,Yale
+1982,2,54,CIN,Emanuel Weaver,NT,22,South Carolina St.
+1982,2,55,NWE,Darryl Haley,T,21,Utah
+1982,3,56,NWE,Cedric Jones,WR,22,Duke
+1982,3,57,BAL,Jim Burroughs,DB,24,Michigan St.
+1982,3,58,NOR,Rodney Lewis,DB,23,Nebraska
+1982,3,59,BUF,Eugene Marve,LB,22,Saginaw Valley St.
+1982,3,60,NWE,Clayton Weishuhn,LB,22,Angelo State (TX)
+1982,3,61,WAS,Carl Powell,WR,"",Jackson St.
+1982,3,62,CHI,Tim Wrightman,TE,22,UCLA
+1982,3,63,ATL,Stacey Bailey,WR,22,San Jose St.
+1982,3,64,RAI,Vann McElroy,DB,22,Baylor
+1982,3,65,STL,Benny Perrin,DB,22,Alabama
+1982,3,66,NOR,Eugene Goodlow,WR,23,Kansas St.
+1982,3,67,RAM,Bill Bechtold,C,"",Oklahoma
+1982,3,68,NOR,Kenny Duckett,WR,22,Wake Forest
+1982,3,69,DET,Steve Doig,LB,22,New Hampshire
+1982,3,70,PIT,Mike Merriweather,LB,21,Pacific
+1982,3,71,GNB,Del Rodgers,RB,22,Utah
+1982,3,72,HOU,Stan Edwards,RB,22,Michigan
+1982,3,73,STL,Rusty Guilbeau,LB,23,McNeese St.
+1982,3,74,TAM,Jerry Bell,TE,23,Arizona St.
+1982,3,75,SEA,Pete Metzelaars,TE,22,Wabash
+1982,3,76,NOR,John Krimm,DB,22,Notre Dame
+1982,3,77,HOU,Robert Abraham,LB,22,North Carolina St.
+1982,3,78,PHI,Vyto Kab,TE,22,Penn St.
+1982,3,79,NYJ,Dwayne Crutchfield,RB,22,Iowa St.
+1982,3,80,MIA,Paul Lankford,DB,24,Penn St.
+1982,3,81,DAL,Jim Eliopulos,LB,23,Wyoming
+1982,3,82,CIN,Rodney Holman,TE,22,Tulane
+1982,3,83,TAM,John Cannon,DE,22,William & Mary
+1982,4,84,BAL,Mike Pagel,QB,21,Arizona St.
+1982,4,85,NWE,George Crump,DE,23,East Carolina
+1982,4,86,NOR,Morten Andersen HOF,K,22,Michigan St.
+1982,4,87,CLE,Dwight Walker,RB,23,Nicholls St.
+1982,4,88,RAM,Jeff Gaylord,LB,"",Missouri
+1982,4,89,CHI,Dennis Gentry,WR,23,Baylor
+1982,4,90,STL,Tootie Robbins,T,24,East Carolina
+1982,4,91,RAI,Ed Muransky,T,22,Michigan
+1982,4,92,MIN,Jim Fahnhorst,LB,23,Minnesota
+1982,4,93,BUF,Van Williams,RB,23,Carson-Newman
+1982,4,94,HOU,Steve Bryant,WR,22,Purdue
+1982,4,95,ATL,Reggie Brown,RB,22,Oregon
+1982,4,96,DET,Bruce McNorton,DB,23,Georgetown (KY)
+1982,4,97,PIT,Rick Woods,DB,22,Boise St.
+1982,4,98,GNB,Robert Brown,DE,22,Virginia Tech
+1982,4,99,WAS,Todd Liebenstein,DE,22,UNLV
+1982,4,100,KAN,Louis Haynes,LB,22,North Texas
+1982,4,101,DAL,Brian Carpenter,DB,21,Michigan
+1982,4,102,NYG,Gerry Raymond,G,"",Boston Col.
+1982,4,103,TAM,Dave Barrett,RB,22,Houston
+1982,4,104,KAN,Stuart Anderson,LB,22,Virginia
+1982,4,105,PHI,Anthony Griggs,LB,22,Ohio St.
+1982,4,106,DEN,Dan Plater,WR,"",BYU
+1982,4,107,NYJ,George Floyd,DB,21,East. Kentucky
+1982,4,108,MIA,Charles Bowser,LB,22,Duke
+1982,4,109,DAL,Monty Hunter,DB,23,Salem
+1982,4,110,CIN,Rodney Tate,RB,23,Texas
+1982,4,111,NWE,Brian Ingram,LB,22,Tennessee
+1982,5,112,NWE,Fred Marion,DB,23,Miami (FL)
+1982,5,113,BAL,Terry Crouch,G,23,Oklahoma
+1982,5,114,NOR,Tony Elliott,NT,23,North Texas
+1982,5,115,CLE,Mike Baab,C,22,Texas
+1982,5,116,CHI,Perry Hartnett,G,22,SMU
+1982,5,117,RAM,Wally Kersten,T,22,Minnesota
+1982,5,118,RAM,Doug Barnett,DE,22,Azusa Pacific
+1982,5,119,STL,Vance Bedford,DB,24,Texas
+1982,5,120,MIA,Bob Nelson,NT,23,Miami (FL)
+1982,5,121,HOU,Malcolm Taylor,DE,22,Tennessee St.
+1982,5,122,ATL,Von Mansfield,DB,22,Wisconsin
+1982,5,123,RAI,Ed Jackson,LB,"",Louisiana Tech
+1982,5,124,PIT,Ken Dallafior,G,23,Minnesota
+1982,5,125,STL,Earl Ferrell,RB,24,East Tennessee St.
+1982,5,126,GNB,Mike Meade,RB,22,Penn St.
+1982,5,127,DET,William Graham,DB,22,Texas
+1982,5,128,TAM,Jeff Davis,LB,22,Clemson
+1982,5,129,NYG,Rich Umphrey,C,23,Colorado
+1982,5,130,KAN,Del Thompson,RB,24,Texas-El Paso
+1982,5,131,DEN,Sammy Winder,RB,23,Southern Miss
+1982,5,132,PHI,Dennis DeVaughn,DB,21,Bishop
+1982,5,133,WAS,Mike Williams,TE,23,Alabama A&M
+1982,5,134,CHI,Dennis Tabron,DB,"",Duke
+1982,5,135,NYJ,Mark Jerue,LB,22,Washington
+1982,5,136,MIA,Rich Diana,RB,22,Yale
+1982,5,137,DAL,Phil Pozderac,T,22,Notre Dame
+1982,5,138,CIN,Paul Sorensen,DB,"",Washington St.
+1982,5,139,SFO,Newton Williams,RB,23,Arizona St.
+1982,6,140,BAL,Pat Beach,TE,22,Washington St.
+1982,6,141,NWE,Ricky Smith,DB,22,Alabama St.
+1982,6,142,NOR,Marvin Lewis,RB,22,Tulane
+1982,6,143,DAL,Ken Hammond,G,"",Vanderbilt
+1982,6,144,SEA,Jack Campbell,T,23,Utah
+1982,6,145,RAM,Kerry Locklin,TE,22,New Mexico St.
+1982,6,146,CHI,Kurt Becker,G,23,Michigan
+1982,6,147,MIN,Greg Storr,LB,21,Boston Col.
+1982,6,148,HOU,Gary Allen,RB,22,Hawaii
+1982,6,149,ATL,Mike Kelley,QB,22,Georgia Tech
+1982,6,150,STL,Craig Shaffer,LB,23,Indiana St.
+1982,6,151,SFO,Vince Williams,RB,22,Oregon
+1982,6,152,GNB,Chet Parlavecchio,LB,22,Penn St.
+1982,6,153,WAS,Lamont Jeffers,LB,"",Tennessee
+1982,6,154,DET,Mike Machurek,QB,22,Idaho St.
+1982,6,155,PIT,Mike Perko,NT,25,Utah St.
+1982,6,156,NYG,Darrell Nicholson,LB,"",North Carolina
+1982,6,157,KAN,Durwood Roquemore,DB,22,Texas A&M-Kingsville
+1982,6,158,TAM,Andre Tyler,WR,23,Stanford
+1982,6,159,PHI,Curt Grieve,WR,"",Yale
+1982,6,160,BUF,DeWayne Chivers,TE,"",South Carolina
+1982,6,161,MIA,Tom Tutson,DB,24,South Carolina St.
+1982,6,162,CLE,Mike Whitwell,DB,23,Texas A&M
+1982,6,163,NYJ,Lonell Phea,WR,"",Houston
+1982,6,164,MIA,Ron Hester,LB,23,Florida St.
+1982,6,165,DAL,Charles Daum,DT,"",Cal Poly-San Luis Obispo
+1982,6,166,CIN,Arthur King,DT,"",Grambling St.
+1982,6,167,PIT,Craig Bingham,LB,22,Syracuse
+1982,7,168,NWE,Jeff Roberts,LB,"",Tulane
+1982,7,169,BAL,Fletcher Jenkins,DE,22,Washington
+1982,7,170,MIA,Dan Johnson,TE,22,Iowa St.
+1982,7,171,BUF,Gary Anderson,K,23,Syracuse
+1982,7,172,PIT,Edmund Nelson,DE,22,Auburn
+1982,7,173,CHI,Henry Waechter,DE,23,Nebraska
+1982,7,174,SEA,Eugene Williams,LB,22,Tulsa
+1982,7,175,DET,Phil Bates,RB,"",Nebraska
+1982,7,176,ATL,David Toloumu,RB,"",Hawaii
+1982,7,177,RAI,Jeff Jackson,DE,"",Toledo
+1982,7,178,STL,Bob Sebro,C,"",Colorado
+1982,7,179,MIN,Steve Jordan,TE,21,Brown
+1982,7,180,WAS,John Schachtner,LB,"",Northern Arizona
+1982,7,181,RAM,Joe Shearin,G,22,Texas
+1982,7,182,PIT,Emil Boures,T,22,Pittsburgh
+1982,7,183,GNB,Joey Whitley,DB,"",Texas-El Paso
+1982,7,184,KAN,Greg Smith,DE,22,Kansas
+1982,7,185,TAM,Tom Morris,DB,22,Michigan St.
+1982,7,186,NYG,Jeff Wiska,G,22,Michigan St.
+1982,7,187,DET,Victor Simmons,WR,"",Oregon St.
+1982,7,188,SDG,Hollis Hall,DB,"",Clemson
+1982,7,189,DEN,Alvin Ruben,DE,"",Houston
+1982,7,190,PHI,Harvey Armstrong,NT,22,SMU
+1982,7,191,NYJ,Tom Coombs,TE,23,Idaho
+1982,7,192,MIA,Larry Cowan,RB,22,Jackson St.
+1982,7,193,DAL,Bill Purifoy,DE,"",Tulsa
+1982,7,194,CIN,Ben Needham,LB,"",Michigan
+1982,7,195,SFO,Ron Ferrari,LB,23,Illinois
+1982,8,196,BAL,Tony Loia,G,"",Arizona St.
+1982,8,197,NWE,Ken Collins,LB,"",Washington St.
+1982,8,198,NOR,Chuck Slaughter,T,23,South Carolina
+1982,8,199,CLE,Mark Kafentzis,DB,24,Hawaii
+1982,8,200,CHI,Jerry Doerger,C,22,Wisconsin
+1982,8,201,SEA,Chester Cooper,WR,"",Minnesota
+1982,8,202,RAM,A.J. Jones,RB,23,Texas
+1982,8,203,ATL,Ricky Eberhardt,DB,"",Morris Brown
+1982,8,204,CLE,Van Heflin,TE,"",Vanderbilt
+1982,8,205,STL,Chris Lindstrom,DE,22,Boston Univ.
+1982,8,206,MIN,Kirk Harmon,LB,"",Pacific
+1982,8,207,RAM,Mike Reilly,LB,23,Oklahoma
+1982,8,208,DET,Martin Moss,DE,23,UCLA
+1982,8,209,PIT,John Goodson,P,22,Texas
+1982,8,210,GNB,Thomas Boyd,LB,22,Alabama
+1982,8,211,CLE,Bill Jackson,DB,22,North Carolina
+1982,8,212,TAM,Kelvin Atkins,LB,22,Illinois
+1982,8,213,NYG,Robert Hubble,TE,"",Rice
+1982,8,214,KAN,Case deBruijn,P,22,Idaho St.
+1982,8,215,SDG,Maury Buford,P,22,Texas Tech
+1982,8,216,DAL,George Peoples,RB,22,Auburn
+1982,8,217,PHI,Jim Fritzsche,T,21,Purdue
+1982,8,218,BUF,Luc Tousignant,QB,"",Fairmont St.
+1982,8,219,NYJ,Lawrence Texada,RB,"",Henderson St.
+1982,8,220,MIA,Tate Randle,DB,23,Texas Tech
+1982,8,221,DAL,Dwight Sullivan,RB,"",North Carolina St.
+1982,8,222,CIN,Kari Yli-Renko,T,"",Cincinnati
+1982,8,223,WAS,Ralph Warthen,DT,"",Gardner-Webb
+1982,9,224,NWE,Kelvin Murdock,WR,"",Troy
+1982,9,225,BAL,Tony Berryhill,C,"",Clemson
+1982,9,226,WAS,Ken Coffey,DB,21,Texas St.
+1982,9,227,CLE,Milton Baker,TE,"",West Texas A&M
+1982,9,228,SEA,David Jefferson,LB,"",Miami (FL)
+1982,9,229,RAM,Bob Speight,T,"",Boston Univ.
+1982,9,230,CHI,Mike Hatchett,DB,"",Texas
+1982,9,231,DET,Danny Wagoner,DB,22,Kansas
+1982,9,232,STL,Darnell Dailey,LB,"",Maryland
+1982,9,233,MIN,Bryan Howard,DB,23,Tennessee St.
+1982,9,234,HOU,Matt Bradley,DB,"",Penn St.
+1982,9,235,ATL,Mike Horan,P,23,Long Beach St.
+1982,9,236,PIT,Mike Hirn,TE,"",Central Michigan
+1982,9,237,GNB,Charles Riggins,DE,22,Bethune-Cookman
+1982,9,238,WAS,Randy Trautman,DT,"",Boise St.
+1982,9,239,MIA,Steve Clark,G,22,Utah
+1982,9,240,NYG,John Higgins,DB,"",UNLV
+1982,9,241,KAN,Lyndle Byford,T,"",Oklahoma
+1982,9,242,TAM,Bob Lane,QB,"",La-Monroe
+1982,9,243,DEN,Keith Uecker,T,22,Auburn
+1982,9,244,PHI,Tony Woodruff,WR,23,Fresno St.
+1982,9,245,BUF,Dennis Edwards,DE,22,USC
+1982,9,246,SDG,Warren Lyles,DT,"",Alabama
+1982,9,247,NYJ,Rocky Klever,TE,23,Montana
+1982,9,248,MIA,Mack Boatner,RB,23,SE Louisiana
+1982,9,249,DAL,Joe Gary,DT,"",UCLA
+1982,9,250,CIN,James Bennett,WR,"",""
+1982,9,251,SFO,Bryan Clark,QB,22,Michigan St.
+1982,10,252,BAL,Tom Deery,DB,"",Widener
+1982,10,253,NWE,Brian Clark,K,24,Florida
+1982,10,254,WAS,Harold Smith,DE,"",Kentucky St.
+1982,10,255,CLE,Ricky Floyd,RB,"",Southern Miss
+1982,10,256,RAM,Miles McPherson,DB,22,New Haven
+1982,10,257,CHI,Joe Turner,DB,"",USC
+1982,10,258,SEA,Craig Austin,LB,"",South Dakota
+1982,10,259,STL,Eddie McGill,TE,22,West. Carolina
+1982,10,260,MIN,Gerald Lucear,WR,"",Temple
+1982,10,261,HOU,Ron Reeves,QB,"",Texas Tech
+1982,10,262,ATL,Curtis Stowers,LB,"",Mississippi St.
+1982,10,263,RAI,Rich D'Amico,LB,"",Penn St.
+1982,10,264,GNB,Eddie Garcia,K,23,SMU
+1982,10,265,WAS,Terry Daniels,DB,"",Tennessee
+1982,10,266,DET,Roosevelt Barnes,LB,24,Purdue
+1982,10,267,PIT,Sal Sunseri,LB,"",Pittsburgh
+1982,10,268,KAN,Larry Brodsky,WR,"",Miami (FL)
+1982,10,269,SFO,Dana McLemore,DB,22,Hawaii
+1982,10,270,NYG,Rich Baldinger,G,22,Wake Forest
+1982,10,271,MIA,Robin Fisher,LB,"",Florida
+1982,10,272,BUF,Vic James,DB,"",Colorado
+1982,10,273,SDG,Andre Young,DB,21,Louisiana Tech
+1982,10,274,DEN,Ken Woodard,LB,22,Tuskegee
+1982,10,275,NYJ,Darryl Hemphill,DB,22,West Texas A&M
+1982,10,276,MIA,Wayne Jones,G,22,Utah
+1982,10,277,DAL,Todd Eckerson,T,"",North Carolina St.
+1982,10,278,CIN,Larry Hogue,DB,"",Utah St.
+1982,10,279,SFO,Tim Barbian,DT,"",West. Illinois
+1982,11,280,BAL,Lamont Meacham,DB,"",Western Kentucky
+1982,11,281,WAS,Dan Miller,K,21,Miami (FL)
+1982,11,282,CLE,Steve Michuta,QB,"",Grand Valley St.
+1982,11,283,CHI,Guy Boliaux,LB,"",Wisconsin
+1982,11,284,SEA,Sam Clancy,DE,24,Pittsburgh
+1982,11,285,RAM,Ricky Coffman,WR,"",UCLA
+1982,11,286,MIN,Curtis Rouse,G,22,Tenn-Chattanooga
+1982,11,287,HOU,Jim Campbell,TE,"",Kentucky
+1982,11,288,ATL,Jeff Keller,WR,"",Washington St.
+1982,11,289,RAI,Willie Turner,WR,"",LSU
+1982,11,290,STL,James Williams,DE,"",North Carolina A&T
+1982,11,291,WAS,Bob Holly,QB,22,Princeton
+1982,11,292,DET,Edward Lee,WR,22,South Carolina St.
+1982,11,293,PIT,Mikal Abdul-Saboor,G,"",Morgan St.
+1982,11,294,GNB,John Macaulay,C,23,Stanford
+1982,11,295,DAL,George Thompson,WR,"",Albany St.
+1982,11,296,NWE,Steve Sandon,QB,"",Northern Iowa
+1982,11,297,KAN,Bob Carter,WR,"",Arizona
+1982,11,298,BUF,Frank Kalil,G,"",Arizona
+1982,11,299,SDG,Anthony Watson,DB,"",New Mexico St.
+1982,11,300,DEN,Stuart Yatsko,G,"",Oregon
+1982,11,301,PHI,Ron Ingram,WR,"",Oklahoma St.
+1982,11,302,NYJ,Perry Parmelee,WR,"",Santa Clara
+1982,11,303,MIA,Gary Crum,T,"",Wyoming
+1982,11,304,DAL,Mike Whiting,RB,"",Florida St.
+1982,11,305,CIN,Russell Davis,RB,"",Idaho
+1982,11,306,SFO,Gary Gibson,LB,"",Arizona
+1982,12,307,BAL,Johnnie Wright,RB,23,South Carolina
+1982,12,308,NWE,Greg Taylor,RB,23,Virginia
+1982,12,309,WAS,Don Laster,T,23,Tennessee St.
+1982,12,310,CLE,Scott Nicolas,LB,22,Miami (FL)
+1982,12,311,SEA,Frank Naylor,C,"",Rutgers
+1982,12,312,RAM,Raymond Coley,DT,"",Alabama A&M
+1982,12,313,CHI,Ricky Young,LB,"",Oklahoma St.
+1982,12,314,HOU,Donnie Craft,RB,22,Louisville
+1982,12,315,ATL,Dave Levenick,LB,23,Wisconsin
+1982,12,316,RAI,Randy Smith,WR,"",Texas A&M-Commerce
+1982,12,317,STL,Bob Atha,K,"",Ohio St.
+1982,12,318,MIN,Hobson Milner,RB,"",Cincinnati
+1982,12,319,DET,Ricky Porter,RB,22,Slippery Rock
+1982,12,320,PIT,Al Hughes,DE,"",West. Michigan
+1982,12,321,GNB,Phil Epps,WR,23,TCU
+1982,12,322,WAS,Jeff Goff,LB,"",Arkansas
+1982,12,323,NYG,Mark Seale,DT,"",Richmond
+1982,12,324,KAN,Mike Miller,DB,"",Texas St.
+1982,12,325,TAM,Michael Morton,RB,22,UNLV
+1982,12,326,DET,Rob Rubick,TE,21,Grand Valley St.
+1982,12,327,DEN,Brian Clark,G,"",Clemson
+1982,12,328,PHI,Rob Taylor,T,21,Northwestern
+1982,12,329,BUF,Tony Suber,DT,"",Gardner-Webb
+1982,12,330,NYJ,Tom Carlstrom,G,"",Nebraska
+1982,12,331,MIA,Mike Rodrigue,WR,"",Miami (FL)
+1982,12,332,DAL,Rich Burtness,G,"",Montana
+1982,12,333,CIN,Dan Feraday,QB,"",Toronto
+1982,12,334,SFO,Tim Washington,DB,22,Fresno St.

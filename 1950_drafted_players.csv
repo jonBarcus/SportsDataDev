@@ -1,0 +1,383 @@
+1950,Rnd,Pick,Tm,Player,Pos,Age,College/Univ
+1950,1,1,DET,Leon Hart,E,21,Notre Dame
+1950,1,2,BAL,Adrian Burk,QB,22,Baylor
+1950,1,3,CHI,Chuck Hunsinger,HB,25,Florida
+1950,1,4,GNB,Clayton Tonnemaker,LB,22,Minnesota
+1950,1,5,DET,Joe Watson,C,25,Rice
+1950,1,6,WAS,George Thomas,HB,22,Oklahoma
+1950,1,7,NYG,Travis Tidwell,QB,25,Auburn
+1950,1,8,PIT,Lynn Chandnois,HB,25,Michigan St.
+1950,1,9,RAM,Ralph Pasquariello,FB,24,Villanova
+1950,1,10,CHI,Fred Morrison,FB,23,Ohio St.
+1950,1,11,SFO,Leo Nomellini HOF,DT,26,Minnesota
+1950,1,12,RAM,Stan West,DG,23,Oklahoma
+1950,1,13,CLE,Ken Carpenter,HB,24,Oregon St.
+1950,1,14,PHI,Bud Grant HOF,E,23,Minnesota
+1950,2,15,BAL,Leon Campbell,FB,23,Arkansas
+1950,2,16,NYY,Art Weiner,E,24,North Carolina
+1950,2,17,GNB,Tobin Rote,QB,22,Rice
+1950,2,18,CLE,John Sandusky,T,24,Villanova
+1950,2,19,WAS,Hall Haynes,DB,21,Santa Clara
+1950,2,20,NYG,Eddie Price,FB,25,Tulane
+1950,2,21,CRD,Jack Jennings,T,24,Ohio St.
+1950,2,22,PIT,Ernie Stautner HOF,DT,25,Boston Col.
+1950,2,23,SFO,Don Campora,T,23,Pacific
+1950,2,24,CHI,John Dottley,FB,22,Mississippi
+1950,2,25,RAM,Bob Fuchs,C,"",Missouri
+1950,2,26,CLE,Jim Martin,G,26,Notre Dame
+1950,2,27,DET,Thurman McGraw,DT,23,Colorado St.
+1950,3,28,BAL,Don Colo,DT,25,Brown
+1950,3,29,CRD,Bill Svoboda,LB,22,Tulane
+1950,3,30,GNB,Gordie Soltau,E,25,Minnesota
+1950,3,31,DET,Art Murakowski,FB,25,Northwestern
+1950,3,32,WAS,Lou Karras,DT,22,Purdue
+1950,3,33,NYG,Randy Clay,HB,22,Texas
+1950,3,34,PIT,George Hughes,T,25,William & Mary
+1950,3,35,CRD,Fran Polsfoot,E,23,Washington St.
+1950,3,36,CHI,Steve Romanik,QB,26,Villanova
+1950,3,37,SFO,Ray Collins,DT,23,LSU
+1950,3,38,RAM,Don Murray,T,"",Penn St.
+1950,3,39,CLE,Jimmy Joe Robinson,B,"",Pittsburgh
+1950,3,40,PHI,Bob Sanders,B,"",Oregon
+1950,4,41,BAL,Bill Murray,G,24,Purdue
+1950,4,42,NYY,Zollie Toth,FB,26,LSU
+1950,4,43,GNB,Larry Coutre,HB,22,Notre Dame
+1950,4,44,DET,Ernie Kiely,G,"",Texas-El Paso
+1950,4,45,WAS,Harry Ulinski,C,25,Kentucky
+1950,4,46,NYG,Porter Payne,G,"",Georgia
+1950,4,47,CRD,Don Paul,DB,24,Washington St.
+1950,4,48,CHI,Tom Novak,C,"",Nebraska
+1950,4,49,SFO,Morris Bailey,E,"",TCU
+1950,4,50,CHI,Dom Papaleo,G,"",Boston Col.
+1950,4,51,RAM,Ben Procter,E,"",Texas
+1950,4,52,CLE,Bob (Red) Wilson,C,"",Wisconsin
+1950,4,53,PHI,Bob McChesney,E,23,Hardin-Simmons
+1950,5,54,BAL,Jack Halliday,T,22,SMU
+1950,5,55,NYY,Mike Swistowicz,HB,23,Notre Dame
+1950,5,56,PIT,Tom Rowe,E,"",Dartmouth
+1950,5,57,DET,Hal Fitkin,B,"",Dartmouth
+1950,5,58,WAS,Frank Spaniel,HB,22,Notre Dame
+1950,5,59,NYG,Forrest Griffith,HB,22,Kansas
+1950,5,60,PIT,Lou Allen,T,26,Duke
+1950,5,61,CRD,Carl Kiilsgaard,T,"",Idaho
+1950,5,62,CHI,Ernie Zalejski,DB,24,Notre Dame
+1950,5,63,SFO,Harry Kane,C,"",Pacific
+1950,5,64,RAM,Dick McKissack,DB,24,SMU
+1950,5,65,CLE,Don Phelps,HB,26,Kentucky
+1950,5,66,PHI,Mike Kaysserian,B,"",Detroit Mercy
+1950,6,67,BAL,Herb Rich,DB,21,Vanderbilt
+1950,6,68,NYY,Bennie Aldridge,DB,23,Oklahoma St.
+1950,6,69,GNB,Jack Cloud,LB,25,William & Mary
+1950,6,70,DET,Floyd Jaszewski,T,23,Minnesota
+1950,6,71,WAS,Gene Pepper,G,22,Missouri
+1950,6,72,CHI,Gaspar Perricone,B,"",Northwestern
+1950,6,73,CRD,Warren Wood,G,"",Puget Sound
+1950,6,74,PIT,Ed Mattson,B,"",""
+1950,6,75,SFO,Don Van Pool,E,"",Oklahoma St.
+1950,6,76,CHI,Wayne Hansen,LB,21,Texas-El Paso
+1950,6,77,RAM,Orville Langrell,T,"",Oklahoma City
+1950,6,78,CLE,Ken Gorgal,DB,21,Purdue
+1950,6,79,PHI,Lloyd McDermott,DT,24,Kentucky
+1950,7,80,BAL,Art Bok,B,"",Dayton
+1950,7,81,NYY,Don Narrell,T,"",TCU
+1950,7,82,GNB,Willie Manley,T,24,Oklahoma
+1950,7,83,DET,Bill Leverman,B,"",St. Edward's
+1950,7,84,WAS,Jerry Houghton,T,24,Washington St.
+1950,7,85,CRD,Billy Gay,DB,22,Notre Dame
+1950,7,86,PIT,Truett Smith,BB,26,Mississippi St.
+1950,7,87,CRD,Ed Bagdon,G,24,Michigan St.
+1950,7,88,CHI,Rollin Prather,E,"",Kansas St.
+1950,7,89,SFO,Lindy Berry,B,"",TCU
+1950,7,90,RAM,Cliff Coggin,E,"",Southern Miss
+1950,7,91,CLE,Win Carter,B,"",Missouri
+1950,7,92,PHI,Mel Olix,B,"",Miami (OH)
+1950,8,93,BAL,Dick Harris,C,"",Texas
+1950,8,94,NYY,Jack Archer,B,"",TCU
+1950,8,95,GNB,Harry Szulborski,B,"",Purdue
+1950,8,96,DET,Ralph McAllister,B,"",Minnesota
+1950,8,97,WAS,John Rohde,E,"",Pacific
+1950,8,98,NYG,Ebert Van Buren,B,"",LSU
+1950,8,99,CRD,John Hock,G,23,Santa Clara
+1950,8,100,PIT,Fran Rogel,FB,22,Penn St.
+1950,8,101,SFO,Ellery Williams,E,24,Santa Clara
+1950,8,102,CHI,Sam Nevills,T,"",Oregon
+1950,8,103,RAM,Woodley Lewis,DB,25,Oregon
+1950,8,104,CLE,Russ Frizzell,T,"",Tulsa
+1950,8,105,PHI,Dick O'Hanlon,T,"",Ohio St.
+1950,9,106,BAL,Bill Bass,B,"",Arkansas
+1950,9,107,CHI,Breezy Reid,HB,23,Georgia
+1950,9,108,GNB,Roger Wilson,E,"",South Carolina
+1950,9,109,DET,Ed Wood,G,"",Detroit Mercy
+1950,9,110,WAS,Don Winslow,T,"",Iowa
+1950,9,111,NYG,Vince Cisterna,E,"",Northern Arizona
+1950,9,112,PIT,Max Druen,T,"",Tulane
+1950,9,113,CRD,Vito Ragazzo,E,"",William & Mary
+1950,9,114,CHI,Dick Braznell,B,"",Missouri
+1950,9,115,SFO,Pete Zinaich,B,"",West Virginia
+1950,9,116,RAM,Les Cowan,DT,24,McMurry
+1950,9,117,CLE,Jim Duncan,DE,25,Wake Forest
+1950,9,118,PHI,Bobby Wilson,B,"",Mississippi
+1950,10,119,BAL,Errol Fry,G,"",Texas
+1950,10,120,NYY,Melvin Lyle,E,"",LSU
+1950,10,121,GNB,Bob Mealey,T,"",Minnesota
+1950,10,122,DET,Roland Malcolm,B,"",Gustavus Adolphus
+1950,10,123,WAS,Eddie LeBaron,QB,20,Pacific
+1950,10,124,NYG,Bob Wilkinson,E,22,UCLA
+1950,10,125,CRD,Walt Grothaus,C,"",Notre Dame
+1950,10,126,CRD,Milt Lavigne,B,"",SE Louisiana
+1950,10,127,SFO,Bob Celeri,QB,23,California
+1950,10,128,CHI,Al Wahl,T,"",Michigan
+1950,10,129,RAM,Jay Van Noy,B,"",Utah St.
+1950,10,130,CLE,Frank O'Pella,B,"",William & Mary
+1950,10,131,PHI,Ernie Johnson,B,"",UCLA
+1950,11,132,BAL,Joe Romanosky,T,"",St. Bonaventure
+1950,11,133,NYY,Roger McAuley,G,"",TCU
+1950,11,134,GNB,Gene Lorendo,E,"",Georgia
+1950,11,135,DET,Jack Wilson,T,"",Ohio St.
+1950,11,136,WAS,Dan Brown,DE,25,Villanova
+1950,11,137,RAM,Jay Roundy,B,"",USC
+1950,11,138,PIT,Charley Williams,E,"",Sam Houston St.
+1950,11,139,CRD,J.D. Ison,E,"",Baylor
+1950,11,140,CHI,John Helwig,LB,22,Notre Dame
+1950,11,141,SFO,Harley Dow,G,24,San Jose St.
+1950,11,142,RAM,Fred Stuvek,G,"",West Virginia
+1950,11,143,CLE,Bob Plotz,G,"",Pittsburgh
+1950,11,144,PHI,Bobby Lantrip,B,"",Rice
+1950,12,145,BAL,Bill Dey,B,"",Dartmouth
+1950,12,146,NYY,Andy Hillhouse,E,"",Texas A&M
+1950,12,147,GNB,Andy Pavich,E,"",Denver
+1950,12,148,DET,Bucky Walters,T,"",Brown
+1950,12,149,WAS,Bill Chauncey,B,"",Iowa St.
+1950,12,150,NYG,Ray Wietecha,C,21,Northwestern
+1950,12,151,CRD,Frank Wallheiser,E,"",Western Kentucky
+1950,12,152,CRD,Bob Sharpe,G,"",Davidson
+1950,12,153,SFO,Don Burke,LB,24,USC
+1950,12,154,CHI,Kenny Roof,B,"",Oklahoma St.
+1950,12,155,RAM,John Lunney,G,"",Arkansas
+1950,12,156,CLE,Emerson Cole,FB,22,Toledo
+1950,12,157,PHI,Frank Mahoney,E,"",Brown
+1950,13,158,BAL,Ray Stone,E,"",Texas
+1950,13,159,NYY,Jack Morton,B,"",West Virginia
+1950,13,160,GNB,Carl Elliott,DE,22,Virginia
+1950,13,161,DET,Jim Ryan,B,"",San Francisco
+1950,13,162,WAS,Clay Davis,C,"",Oklahoma St.
+1950,13,163,NYG,Joe Kelly,C,"",Wisconsin
+1950,13,164,PIT,Negley Norton,T,"",Penn St.
+1950,13,165,CRD,Jerry Hennessy,DE,24,Santa Clara
+1950,13,166,CHI,Frank Dempsey,LB,25,Florida
+1950,13,167,SFO,Lou (Bimbo) Cecconi,B,"",Pittsburgh
+1950,13,168,RAM,Tom Winbigler,B,"",Col. of Idaho
+1950,13,169,CLE,Rupe Wright,G,"",Baylor
+1950,13,170,PHI,Norm Willey,DE,23,Marshall
+1950,14,171,BAL,Mitch Smiarowski,C,"",St. Bonaventure
+1950,14,172,NYY,Ed Carmichael,G,"",Oregon St.
+1950,14,173,GNB,Fred Leon,T,"",Nevada
+1950,14,174,DET,Cliff Squires,C,"",Nebraska Wesleyan
+1950,14,175,WAS,Lyle Button,T,"",Illinois
+1950,14,176,NYG,Gene Fritz,T,"",Minnesota
+1950,14,177,CRD,Dee Andros,G,"",Oklahoma
+1950,14,178,PIT,Jim Kynes,C,"",Florida
+1950,14,179,SFO,Tom Payne,E,"",Santa Clara
+1950,14,180,CHI,Al Hover,G,"",LSU
+1950,14,181,RAM,Bill Trautwein,T,"",Ohio St.
+1950,14,182,CLE,Packard Harrington,C,"",""
+1950,14,183,PHI,Billy Hix,E,21,Arkansas
+1950,15,184,BAL,Art Spinney,G,22,Boston Col.
+1950,15,185,NYY,Norm Meseroll,T,"",Tennessee
+1950,15,186,GNB,Gene Huebner,C,"",Baylor
+1950,15,187,DET,Tom Worthington,B,"",Northwestern
+1950,15,188,WAS,Alex Loyd,E,23,Oklahoma St.
+1950,15,189,NYG,Bill Roberson,T,"",S.F. Austin
+1950,15,190,PIT,Harry Russell,B,"",San Jose St.
+1950,15,191,CRD,Al Langford,B,"",Howard Payne
+1950,15,192,CHI,Jimmy Glisson,B,"",Tulane
+1950,15,193,SFO,Leo Crampsey,E,"",St. Bonaventure
+1950,15,194,RAM,Dave Stephenson,G,24,West Virginia
+1950,15,195,CLE,Ted Meland,G,"",Oregon
+1950,15,196,PHI,Herb Carey,B,"",Dartmouth
+1950,16,197,BAL,Dave Fisher,B,"",Louisiana
+1950,16,198,NYY,Bill Stetter,C,"",Holy Cross
+1950,16,199,GNB,Frank Kuzma,B,"",Minnesota
+1950,16,200,DET,Jerry Greiner,C,"",Detroit Mercy
+1950,16,201,WAS,Charlie Justice,HB,26,North Carolina
+1950,16,202,NYG,Bob Jackson,FB,28,North Carolina A&T
+1950,16,203,CRD,Harry Bierman,E,"",Furman
+1950,16,204,PIT,Bernie Barkouskie,G,"",Pittsburgh
+1950,16,205,SFO,Charlie Shaw,G,23,Oklahoma St.
+1950,16,206,CHI,Ed Bradley,G,22,Wake Forest
+1950,16,207,RAM,Jim Maloney,E,"",Fordham
+1950,16,208,CLE,Art King,G,"",Ball St.
+1950,16,209,PHI,Jim Marck,T,"",""
+1950,17,210,BAL,Ralph Murphy,G,"",Rice
+1950,17,211,NYY,Joe Dean Tidwell,B,"",Midwestern St.
+1950,17,212,GNB,Hal Otterback,G,"",Wisconsin
+1950,17,213,DET,Connie Callahan,B,"",Morningside
+1950,17,214,WAS,Jim Cullom,G,24,California
+1950,17,215,NYG,Steve Hatfield,B,"",Shippensburg
+1950,17,216,PIT,Al Bodine,B,"",Georgia
+1950,17,217,CRD,Tom Palmer,DT,21,Wake Forest
+1950,17,218,CHI,Ray Janaszek,B,"",Dayton
+1950,17,219,SFO,Cliff Van Meter,B,"",Tulane
+1950,17,220,RAM,Harry Neugold,T,"",Rensselaer Polytechnic Institute
+1950,17,221,CLE,Hal McKinney,G,"",Missouri Valley
+1950,17,222,PHI,Jerry Taylor,C,"",Mississippi St.
+1950,18,223,BAL,Charley Schoolmaster,C,"",West. Michigan
+1950,18,224,NYY,Jim Champion,LB,24,Mississippi St.
+1950,18,225,GNB,Arnie Galiffa,QB,23,Army
+1950,18,226,DET,Don Stansauk,DT,25,Denver
+1950,18,227,WAS,Alvin Duke,B,"",Arkansas
+1950,18,229,CRD,Ray Espenan,E,"",Notre Dame
+1950,18,230,PIT,Kenneth Powell,E,"",North Carolina
+1950,18,231,SFO,Ralph Genito,B,"",Kentucky
+1950,18,232,CHI,Rupert Andrews,B,"",Stanford
+1950,18,233,RAM,Bobby Collier,T,20,SMU
+1950,18,234,CLE,Joe Trabue,B,"",Louisville
+1950,18,235,PHI,Ed Tunnicliff,B,"",Northwestern
+1950,19,236,BAL,Bill Waddail,B,"",Auburn
+1950,19,237,NYY,Bobbie Griffin,DB,22,Baylor
+1950,19,238,GNB,Earl Rowan,T,"",Hardin-Simmons
+1950,19,239,DET,Gus Cifelli,T,24,Notre Dame
+1950,19,240,WAS,Ed White,E,"",Alabama
+1950,19,243,CRD,Loran Day,B,"",Northwestern
+1950,19,244,CHI,Billy Bye,B,"",Minnesota
+1950,19,245,SFO,Forest Klein,G,"",California
+1950,19,246,RAM,Johnny Smith,E,"",Arizona
+1950,19,247,CLE,Butch Songin,QB,26,Boston Col.
+1950,19,248,PHI,Darrell Robinson,E,"",Oregon
+1950,20,249,BAL,Sheldon Dunlap,G,"",Cincinnati
+1950,20,250,NYY,Darrell Royal,B,"",Oklahoma
+1950,20,251,GNB,Jim Howe,B,"",Kentucky
+1950,20,252,DET,Fred Davis,E,"",Maryland
+1950,20,253,WAS,George Bayer,T,"",Washington
+1950,20,254,NYG,Joe Tangaro,T,"",Utah
+1950,20,255,CRD,Webb Halbert,B,"",Iowa St.
+1950,20,256,PIT,Mike DeNoia,B,"",Scranton
+1950,20,257,SFO,Jack Nix,E,22,USC
+1950,20,258,CHI,Jim (Tank) Crawford,G,"",Mississippi
+1950,20,259,RAM,Bill Young,B,"",Hillsdale
+1950,20,260,CLE,John Hackney,G,"",Murray St.
+1950,21,262,BAL,Tom Phillips,B,"",Baldwin-Wallace
+1950,21,263,NYY,Bud French,B,"",Kansas
+1950,21,264,GNB,Gene Evans,B,"",Wisconsin
+1950,21,265,DET,George Brewer,B,"",Oklahoma
+1950,21,266,WAS,Cas Witucki,G,22,Indiana
+1950,21,267,NYG,Bill Stribling,E,22,Mississippi
+1950,21,268,PIT,Dick Tomlinson,G,22,Kansas
+1950,21,269,CRD,Howard Blumhardt,B,"",South Dakota
+1950,21,270,CHI,Bob Angle,B,"",Iowa St.
+1950,21,271,SFO,Guerin Alker,C,"",Loyola Marymount
+1950,21,272,RAM,Bill Klein,E,"",Hanover
+1950,21,273,CLE,Leroy Vogts,G,"",""
+1950,21,274,PHI,Marv Cross,B,"",Washington St.
+1950,22,275,BAL,Chip Armstrong,C,"",Occidental
+1950,22,276,NYY,R.V. Johnson,T,"",""
+1950,22,277,GNB,Chuck Beatty,C,"",Penn St.
+1950,22,278,DET,Jim Tate,T,"",Purdue
+1950,22,279,WAS,John deLaurentis,T,"",Waynesburg
+1950,22,281,CRD,Jim Lipinski,T,24,Fairmont St.
+1950,22,282,PIT,Stan Burak,B,"",George Washington
+1950,22,283,SFO,Billy Wilson,E,23,San Jose St.
+1950,22,284,CHI,Jim Byler,G,"",North Carolina St.
+1950,22,285,RAM,Doug Barber,B,"",Dakota Wesleyan
+1950,22,286,CLE,Jim Dowling,G,"",Santa Clara
+1950,22,287,PHI,Jim Hague,E,"",Ohio St.
+1950,23,288,BAL,Harry Wettlaufer,E,"",Pennsylvania
+1950,23,289,NYY,Dick Sheffield,E,"",Tulane
+1950,23,290,GNB,George Mattey,G,"",Ohio St.
+1950,23,291,DET,Irv Heller,T,"",Boston Univ.
+1950,23,292,WAS,Joe Zuravleff,E,"",Northwestern
+1950,23,293,NYG,Warren Davis,C,"",Colgate
+1950,23,294,PIT,Walt Kersulis,E,"",Illinois
+1950,23,295,CRD,Bill Montgomery,B,"",Fresno St.
+1950,23,296,CHI,Bill Bigham,T,"",Harding
+1950,23,297,SFO,Jim (Froggy) Williams,E,"",Rice
+1950,23,298,RAM,Jim Bird,T,"",USC
+1950,23,299,CLE,Dom Moselle,DB,24,Wisconsin–Superior
+1950,23,300,PHI,Al Lesko,T,"",St. Bonaventure
+1950,24,301,BAL,Bill Petroski,T,"",Holy Cross
+1950,24,302,NYY,Bill DeYoung,B,"",Stanford
+1950,24,303,GNB,Don Delph,B,"",Dayton
+1950,24,304,DET,Jim McDowell,G,"",William & Mary
+1950,24,305,WAS,Dick Tilton,T,"",Nevada
+1950,24,306,NYG,Tom Finnin,DT,22,Detroit Mercy
+1950,24,307,CRD,Bob Gambold,QB,21,Washington St.
+1950,24,309,SFO,Bill Wyman,T,"",Rice
+1950,24,310,CHI,Walt Polenske,B,"",Pacific
+1950,24,311,RAM,Joe Joiner,E,"",Austin
+1950,24,312,CLE,Jack Woodland,B,"",Bowling Green
+1950,24,313,PHI,Tom DeSylvia,G,"",Oregon St.
+1950,25,314,BAL,Jim Pepper,G,"",Syracuse
+1950,25,315,NYY,Steve Dotur,G,"",Oregon
+1950,25,316,GNB,Frank Waters,B,"",Michigan St.
+1950,25,317,DET,Gene Glick,B,"",Michigan St.
+1950,25,318,WAS,Art Stewart,B,"",SE Oklahoma St.
+1950,25,319,NYG,Ken Beiersdorf,B,"",Minnesota
+1950,25,320,PIT,Bob Numbers,C,"",Lehigh
+1950,25,321,CRD,Lee Truman,B,"",Kentucky
+1950,25,322,CHI,Perry Samuels,B,"",Texas
+1950,25,323,SFO,Bob Dunn,G,"",Dayton
+1950,25,324,RAM,Dan Towler,FB,22,Washington & Jefferson
+1950,25,325,CLE,Jim Brasher,C,"",Maryland
+1950,25,326,PHI,Jim Eagles,C,"",North Texas
+1950,26,327,BAL,Geno Mazzanti,HB,21,Arkansas
+1950,26,328,NYY,Red Noonan,B,"",Alabama
+1950,26,329,GNB,Claude Radtke,E,"",Lawrence
+1950,26,330,DET,Bobby Coy Lee,B,"",Texas
+1950,26,331,WAS,Earl Roth,B,"",Maryland
+1950,26,332,NYG,Carl Copp,T,"",Vanderbilt
+1950,26,333,CRD,Jim Pittman,B,"",Mississippi St.
+1950,26,334,PIT,Nick Vaccaro,B,"",Florida
+1950,26,335,SFO,Jim Powers,DB,22,USC
+1950,26,336,CHI,George Sella,B,"",Princeton
+1950,26,337,RAM,Otto Haldy,T,"",Mankato St.
+1950,26,338,CLE,Charlie Toogood,T,23,Nebraska
+1950,26,339,PHI,Rod Franz,G,"",California
+1950,27,340,BAL,Mitford Johnson,B,"",Baylor
+1950,27,341,NYY,Chuck Olson,E,"",Washington
+1950,27,342,GNB,Bill Osborne,B,"",Nevada
+1950,27,343,DET,Elbert Johnson,E,"",Texas Tech
+1950,27,344,WAS,Ed Lee,T,"",Kansas
+1950,27,345,NYG,Art Sweet,B,"",Baylor
+1950,27,346,PIT,Elmer Kreiser,E,"",Bloomsburg
+1950,27,347,CRD,Tom Bienemann,E,"",Drake
+1950,27,348,CHI,Wilton (Hook) Davis,B,"",Hardin-Simmons
+1950,27,349,SFO,Ken Johnson,G,"",Pacific
+1950,27,350,RAM,Hal Kilman,T,"",TCU
+1950,27,351,CLE,Dick Gray,B,"",Oregon St.
+1950,27,352,PHI,Bill Martin,B,"",USC
+1950,28,353,BAL,John Adcock,T,"",Auburn
+1950,28,354,NYY,Ed Petty,C,"",Hardin-Simmons
+1950,28,355,GNB,Herm Hering,B,"",Rutgers
+1950,28,356,DET,Johnny Karras,B,"",Illinois
+1950,28,357,WAS,Ralph Shoaf,B,"",West Virginia
+1950,28,358,NYG,Don McAuliffe,B,"",Michigan St.
+1950,28,359,CRD,Sonny Jones,B,"",Wyoming
+1950,28,360,PIT,Jerry Diehl,B,"",Idaho
+1950,28,361,SFO,Charley Hall,B,"",Arizona
+1950,28,362,CHI,Jim Kenary,B,"",Harvard
+1950,28,363,RAM,Junior Morgan,E,"",San Jose St.
+1950,28,364,CLE,Billy Pyle,B,"",Texas
+1950,28,365,PHI,Don Burson,B,"",Northwestern
+1950,29,366,BAL,Bob (Snakey) Graham,B,"",Pennsylvania
+1950,29,367,NYY,Ed Jasonek,B,"",Furman
+1950,29,368,GNB,Ben Zaranka,E,"",Kentucky
+1950,29,369,DET,Russ Steger,B,"",Illinois
+1950,29,370,WAS,Johnny Lundin,G,"",Minnesota
+1950,29,372,PIT,Carl DePasqua,B,"",Pittsburgh
+1950,29,373,CRD,Bill Montagne,B,"",California
+1950,29,374,CHI,Ferd Nadherny,B,"",Yale
+1950,29,375,SFO,Bob Whelan,B,"",Boston Univ.
+1950,29,376,RAM,Bob Heck,B,"",Pacific
+1950,29,377,CLE,Bob Schnelker,E,21,Bowling Green
+1950,29,378,PHI,Wes Curtier,T,"",Richmond
+1950,30,380,NYY,John Poulos,B,"",Pacific
+1950,30,382,DET,Rube DeRoin,C,"",Oklahoma St.
+1950,30,383,WAS,Bob Noppinger,E,"",""
+1950,30,384,NYG,Hamp Tanner,T,22,Georgia
+1950,30,385,CRD,Vic Banonis,C,"",""
+1950,30,386,PIT,Ed Hudak,T,"",Notre Dame
+1950,30,387,SFO,Bob Stillwell,E,"",USC
+1950,30,388,CHI,Allen Markert,T,"",Minnesota
+1950,30,389,RAM,Bill Lange,G,22,Dayton
+1950,30,390,CLE,Jim Massey,B,"",Detroit Mercy
+1950,30,391,PHI,Dud Parker,B,"",Baylor

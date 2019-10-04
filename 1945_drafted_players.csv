@@ -1,0 +1,331 @@
+1945,Rnd,Pick,Tm,Player,Pos,Age,College/Univ
+1945,1,1,CRD,Charley Trippi HOF,HB,22,Georgia
+1945,1,2,PIT,Paul Duhart,B,24,Florida
+1945,1,3,BOS,Joe Renfroe,B,"",Tulane
+1945,1,4,BOS,Eddie Prokop,B,23,Georgia Tech
+1945,1,5,RAM,Elroy Hirsch HOF,E,22,Michigan
+1945,1,6,DET,Frank Szymanski,C,22,Notre Dame
+1945,1,7,CHI,Don Lund,B,"",Michigan
+1945,1,8,WAS,Jim Hardy,QB,22,USC
+1945,1,9,PHI,John Yonakor,E,24,Notre Dame
+1945,1,10,NYG,Elmer Barbour,BB,26,Wake Forest
+1945,1,11,GNB,Walt Schlinkman,FB,23,Texas Tech
+1945,2,12,PIT,Jack Dugger,T,22,Ohio St.
+1945,2,13,BOS,Wayne Williams,B,"",Minnesota
+1945,2,14,CRD,Paul Collins,QB,22,Missouri
+1945,2,15,BOS,Tom Dean,T,22,SMU
+1945,2,16,RAM,Mike Lazetich,G,24,Michigan
+1945,3,17,BOS,Cecil Gray,C,"",Oregon
+1945,3,18,CRD,Walt Watt,HB,23,Miami (FL)
+1945,3,19,PIT,Bill Dellastatious,B,"",Missouri
+1945,3,20,BOS,Damon Tassos,G,21,Texas A&M
+1945,3,21,RAM,W.G. (Dub) Wooten,E,"",Oklahoma
+1945,3,22,CHI,Charley Allen,B,"",SMU
+1945,3,23,WAS,John Adams,T,23,Notre Dame
+1945,3,24,DET,Stan Mohrbacher,G,"",Iowa
+1945,3,25,PHI,Alvin Dark,B,"",LSU
+1945,3,26,NYG,Gordon Appleby,C,"",Ohio St.
+1945,3,27,GNB,Clyde Goodnight,E,21,Tulsa
+1945,4,28,CRD,Bob Dobelstein,G,22,Tennessee
+1945,4,29,PIT,Roger Adams,C,"",Florida
+1945,4,30,BOS,Steve Enich,G,22,Marquette
+1945,4,31,BOS,Don Deeks,T,22,Washington
+1945,4,32,RAM,Jack Zilly,DE,23,Notre Dame
+1945,5,33,PIT,Charley Mehelich,DE,23,Duquesne
+1945,5,34,BOS,Al Kowalski,BB,24,Tulsa
+1945,5,35,CRD,Zeke Chronister,E,"",TCU
+1945,5,36,BOS,Johnny (Strike) Strzykalski,B,"",Marquette
+1945,5,37,RAM,Roger Harding,C,22,California
+1945,5,38,WAS,George Bujan,C,"",Oregon
+1945,5,39,DET,Bob Wiese,B,22,Michigan
+1945,5,40,CHI,Forrest Masterson,C,23,Iowa
+1945,5,41,PHI,Pete Pihos HOF,E,21,Indiana
+1945,5,42,NYG,Ed Castleberry,B,"",West Texas A&M
+1945,5,43,GNB,Joe Graham,E,"",Florida
+1945,6,44,BOS,Dick Barwegen,G,22,Purdue
+1945,6,45,CRD,Corwin Clatt,FB,21,Notre Dame
+1945,6,46,PIT,Gregg Browning,E,23,Denver
+1945,6,47,BOS,Jim Mello,DB,24,Notre Dame
+1945,6,48,RAM,Gerry Cowhig,LB,24,Notre Dame
+1945,6,49,DET,Gene Fekete,FB,23,Ohio St.
+1945,6,50,CHI,Wayne Shaw,B,"",SMU
+1945,6,51,WAS,John North,E,24,Vanderbilt
+1945,6,52,PHI,Chuck Dellago,G,"",Minnesota
+1945,6,53,NYG,Barney Poole,DE,21,Army
+1945,6,54,GNB,Don Wells,DE,23,Georgia
+1945,7,55,CRD,Ziggy Czarobski,T,22,Notre Dame
+1945,7,56,PIT,Mike Wolak,B,"",Duquesne
+1945,7,57,BOS,Louie Futrell,B,"",Fresno St.
+1945,7,58,BOS,Marty Silovich,C,"",Marquette
+1945,7,59,RAM,Fred Negus,C,21,Wisconsin
+1945,7,60,CHI,Glen Burgeis,T,23,Tulsa
+1945,7,61,WAS,John Steber,G,21,Vanderbilt
+1945,7,62,DET,Mike Jarmoluk,DT,22,Temple
+1945,7,63,PHI,Gonzalo Morales,HB,23,St. Mary's (CA)
+1945,7,64,NYG,Jack Mead,E,24,Wisconsin
+1945,7,65,GNB,Casey Stephenson,B,"",Tennessee
+1945,8,66,PIT,Tom Hughes,T,"",Missouri
+1945,8,67,BOS,John Dodds,G,"",California
+1945,8,68,CRD,John Harrington,E,24,Marquette
+1945,8,69,BOS,Ellis Jones,G,24,Tulsa
+1945,8,70,RAM,Johnny August,B,"",Alabama
+1945,8,71,WAS,Art Porter,E,"",Tulane
+1945,8,72,DET,Jackie Lowther,B,22,Detroit Mercy
+1945,8,73,CHI,Pat O'Brien,T,"",Purdue
+1945,8,74,PHI,Sam Robinson,B,"",Washington
+1945,8,75,NYG,Nick Vodick,B,"",Northwestern
+1945,8,76,GNB,Toby Collins,T,"",Tulsa
+1945,9,77,BOS,Elting Johnson,B,"",Bucknell
+1945,9,78,CRD,Gene Meeks,B,"",Kentucky
+1945,9,79,PIT,Leon Pense,BB,23,Arkansas
+1945,9,80,BOS,Earl Lambert,B,"",Manhattan
+1945,9,81,RAM,Dick Huffman,T,22,Tennessee
+1945,9,82,DET,Les Joop,T,"",Illinois
+1945,9,83,CHI,Bill Mayther,C,"",Oregon
+1945,9,84,WAS,Curt Kuykendall,B,"",Auburn
+1945,9,85,PHI,Forrest Hall,B,23,San Francisco
+1945,9,86,NYG,John Rudan,B,"",Marquette
+1945,9,87,GNB,Lamar Dingler,E,"",Arkansas
+1945,10,88,CRD,Bill Huber,E,"",Notre Dame
+1945,10,89,PIT,Art Brandau,C,23,Tennessee
+1945,10,90,BOS,Roy Cross,E,"",Tennessee
+1945,10,91,BOS,Don Kasprzak,B,"",Dartmouth
+1945,10,92,RAM,Vern Walters,B,"",Alma
+1945,10,93,CHI,Bill Poe,B,"",Clemson
+1945,10,94,WAS,Frank Brogger,E,"",Michigan St.
+1945,10,95,DET,Paul Walker,E,20,Yale
+1945,10,96,PHI,Joe Sadonis,T,"",Fordham
+1945,10,97,NYG,Vic Smith,B,"",UCLA
+1945,10,98,GNB,Hal Helscher,B,"",LSU
+1945,11,99,PIT,Ray Ball,B,"",Holy Cross
+1945,11,100,BOS,Earl Haury,T,"",Kansas St.
+1945,11,101,CRD,Halley Heard,T,"",LSU
+1945,11,102,BOS,Ben Jones,E,"",Arkansas
+1945,11,103,RAM,Tom Fears HOF,E,22,UCLA
+1945,11,104,WAS,Mack Creger,B,"",Northwestern
+1945,11,105,DET,Howie Hansen,T,"",Utah St.
+1945,11,106,CHI,Chuck Avery,B,"",Minnesota
+1945,11,107,PHI,Rudy Mobley,HB,23,Hardin-Simmons
+1945,11,108,NYG,Jim Young,T,"",Arkansas
+1945,11,109,GNB,Ralph Hammond,C,"",Pittsburgh
+1945,12,110,BOS,John Martin,B,"",East Tennessee St.
+1945,12,111,CRD,Bob Cowan,B,22,Indiana
+1945,12,112,PIT,Frank Basilone,B,"",Duquesne
+1945,12,113,BOS,Herb Coleman,C,22,Notre Dame
+1945,12,114,RAM,Joe Winkler,C,23,Purdue
+1945,12,115,DET,Mike Kasap,T,22,Purdue
+1945,12,116,CHI,Jack Boyd,B,"",UCLA
+1945,12,117,WAS,Paul McKee,E,22,Syracuse
+1945,12,118,PHI,Jim Newmeyer,T,"",St. Vincent
+1945,12,119,NYG,Billy Bevis,B,"",Tennessee
+1945,12,120,GNB,Ed Podgorski,T,"",Lafayette
+1945,13,121,CRD,Elmore (Buddy) Luper,B,"",Duke
+1945,13,122,PIT,John Monahan,E,"",Dartmouth
+1945,13,123,BOS,George McDonald,T,"",South Carolina
+1945,13,124,BOS,Joe Pezelski,B,"",Villanova
+1945,13,125,RAM,Jack Aland,T,"",Alabama
+1945,13,126,CHI,Ralph Ellsworth,B,"",Texas
+1945,13,127,WAS,Charlie Conerly,QB,23,Mississippi
+1945,13,128,DET,Wally Hopp,B,"",Nebraska
+1945,13,129,PHI,Bill Chambers,G,21,UCLA
+1945,13,130,NYG,Bob Boozer,T,"",Arkansas
+1945,13,131,GNB,Bill Hackett,G,"",Ohio St.
+1945,14,132,PIT,Mel Odelli,HB,24,Duquesne
+1945,14,133,BOS,Hal Self,B,"",Alabama
+1945,14,134,CRD,Solon Barnett,T,24,Baylor
+1945,14,135,BOS,John DiGangi,T,"",Holy Cross
+1945,14,136,RAM,Chuck Uknes,B,"",Iowa
+1945,14,137,WAS,John Putnik,E,"",Utah St.
+1945,14,138,DET,Ben Trickey,B,"",Iowa
+1945,14,139,CHI,Frank Mattioli,G,22,Pittsburgh
+1945,14,140,PHI,John Duda,B,"",Virginia
+1945,14,141,NYG,Stan Rhoades,B,"",Mississippi St.
+1945,14,142,GNB,Marv Lindsey,B,"",Arkansas
+1945,15,143,BOS,Tom Reilly,G,"",Fordham
+1945,15,144,CRD,Gordon Carver,B,"",Duke
+1945,15,145,PIT,George Connor,T,"",Notre Dame
+1945,15,146,BOS,Chan Highsmith,C,"",North Carolina
+1945,15,147,RAM,Bill Lund,HB,20,Case Western Reserve
+1945,15,148,DET,Windell Williams,E,22,Louisiana
+1945,15,149,CHI,Merle Gibson,E,"",TCU
+1945,15,150,WAS,Eddie Saenz,HB,22,USC
+1945,15,151,PHI,Bill Montgomery,HB,22,LSU
+1945,15,152,NYG,Jack Wink,B,"",Wisconsin
+1945,15,153,GNB,Robert (Buster) McClure,T,"",Nevada
+1945,16,154,CRD,John Cannady,B,"",Indiana
+1945,16,155,PIT,Jim Ungles,B,"",Kansas St.
+1945,16,156,BOS,Skimp Harrison,E,"",South Carolina
+1945,16,157,BOS,Mike Costello,E,"",""
+1945,16,158,RAM,Bob Barton,E,"",Holy Cross
+1945,16,159,CHI,John Creevey,B,"",Notre Dame
+1945,16,160,WAS,Dom Fusci,T,"",South Carolina
+1945,16,161,DET,Wayne Flanigan,E,"",Denver
+1945,16,162,PHI,Howard Werner,E,"",Syracuse
+1945,16,163,NYG,Jim Little,T,24,Kentucky
+1945,16,164,GNB,Harry Pieper,C,"",California
+1945,17,165,PIT,Jack Itzel,FB,20,Pittsburgh
+1945,17,166,BOS,Arnie Weinmeister HOF,DT,22,Washington
+1945,17,167,CRD,Ben Cittadino,E,"",Duke
+1945,17,168,BOS,Paul Dromgoole,E,"",Manhattan
+1945,17,169,RAM,Dick Hoerner,FB,23,Iowa
+1945,17,170,WAS,Bobby Tom Jenkins,B,"",Alabama
+1945,17,171,DET,O.J. Key,B,"",Tulane
+1945,17,172,CHI,Nick Sacrinty,QB,21,Wake Forest
+1945,17,173,PHI,Jim Austin,B,"",Missouri
+1945,17,174,NYG,Bob Jabbusch,G,"",Ohio St.
+1945,17,175,GNB,Bob Kula,B,"",Minnesota
+1945,18,176,BOS,Charley Eikenberg,QB,21,Rice
+1945,18,177,CRD,Ralph Strayhorn,G,"",North Carolina
+1945,18,178,PIT,Alex Wizbicki,DB,23,Holy Cross
+1945,18,179,BOS,Dolph Czekala,T,"",Syracuse
+1945,18,180,RAM,Lee Kennon,T,"",Oklahoma
+1945,18,181,DET,Jim McWhorter,B,"",Alabama
+1945,18,182,CHI,Jim Keane,E,21,Northwestern
+1945,18,183,WAS,Ed Stacco,T,"",Colgate
+1945,18,184,PHI,Quentin Klenk,T,26,USC
+1945,18,185,NYG,Bill Byrd,C,"",Maryland
+1945,18,186,GNB,Frank Hazard,G,"",Nebraska
+1945,19,187,CRD,John Andretich,B,"",Purdue
+1945,19,188,PIT,Jim Landrigan,T,22,Dartmouth
+1945,19,189,BOS,Al Kasulin,B,"",Villanova
+1945,19,190,BOS,Joe Drumm,T,"",""
+1945,19,191,RAM,Eagle Matulich,B,"",Mississippi St.
+1945,19,192,CHI,Bruno Niedziela,T,22,Iowa
+1945,19,193,WAS,Jim Bradshaw,C,"",Auburn
+1945,19,194,DET,Clyde LeForce,QB,22,Tulsa
+1945,19,195,PHI,Joe Spencer,T,22,Oklahoma St.
+1945,19,196,NYG,Glenn Morries,T,"",Texas
+1945,19,197,GNB,Ed Jeffers,G,23,Oklahoma St.
+1945,20,198,PIT,Bill Lilienthal,T,"",Villanova
+1945,20,199,BOS,Charley Lively,T,"",Arkansas
+1945,20,200,CRD,Jack Kramer,T,23,Marquette
+1945,20,201,BOS,Mario Giannelli,MG,24,Boston Col.
+1945,20,202,RAM,Bill Griffin,T,"",Kentucky
+1945,20,203,WAS,Bill Shipkey,B,"",Stanford
+1945,20,204,DET,Mike Castronis,G,"",Georgia
+1945,20,205,CHI,Broughton Williams,E,"",Florida
+1945,20,206,PHI,Leo Pratt,T,"",Oklahoma St.
+1945,20,207,NYG,Pete Davis,B,"",Santa Clara
+1945,20,208,GNB,Bill Prentice,B,"",Santa Clara
+1945,21,209,BOS,Ted Curran,B,"",Iowa
+1945,21,210,CRD,Albert (Red) Cheek,G,"",Baylor
+1945,21,211,PIT,Art Price,B,"",Rutgers
+1945,21,212,BOS,Eric Jamison,T,"",San Francisco
+1945,21,213,RAM,Leroy Erickson,B,"",Oregon
+1945,21,214,DET,Ken Currier,G,"",Wisconsin
+1945,21,215,CHI,Walt Stickel,T,23,Pennsylvania
+1945,21,216,WAS,Sid Halliday,T,"",SMU
+1945,21,217,PHI,Phil Teschner,T,"",Brown
+1945,21,218,NYG,Sam Vacanti,QB,23,Nebraska
+1945,21,219,GNB,Warren Fuller,E,"",Fordham
+1945,22,220,CRD,Fred Grant,B,"",Wake Forest
+1945,22,221,PIT,Don Malmberg,B,"",UCLA
+1945,22,222,BOS,Don Fabling,B,"",Colorado
+1945,22,223,BOS,Walt Kretz,B,"",Cornell
+1945,22,224,RAM,Ray Evans,T,"",Texas-El Paso
+1945,22,225,CHI,Bob Livingstone,B,23,Notre Dame
+1945,22,226,WAS,Chick Davidson,T,"",Cornell
+1945,22,227,DET,Jack Verutti,B,"",""
+1945,22,228,PHI,John Magee,G,22,Louisiana
+1945,22,229,NYG,Vern Oliver,C,"",Washington St.
+1945,22,230,GNB,Fred Nielson,T,"",""
+1945,23,231,PIT,Everett Harwell,E,"",Auburn
+1945,23,232,BOS,Wally Crittenden,B,"",USC
+1945,23,233,CRD,Johnny Cook,B,"",Georgia
+1945,23,234,BOS,Marty Grbovaz,E,"",San Francisco
+1945,23,235,RAM,Luke Higgins,G,26,Notre Dame
+1945,23,236,WAS,Gabby Martin,E,"",SMU
+1945,23,237,DET,Ray Olsen,B,"",Tulane
+1945,23,238,CHI,Mike Vargon,E,"",Kansas St.
+1945,23,239,PHI,Norm Mosley,TB,23,Alabama
+1945,23,240,NYG,Jim Chadwell,T,"",Tennessee
+1945,23,241,GNB,Bob Gilmore,B,"",Washington
+1945,24,242,BOS,Jules Taddie,C,"",Rochester
+1945,24,243,CRD,Ardie McClure,T,"",Georgia
+1945,24,244,PIT,Ed Cain,B,"",Rice
+1945,24,245,BOS,Ziggy Gory,C,"",Villanova
+1945,24,246,RAM,Stan Nowak,E,"",South Carolina
+1945,24,247,DET,Russ Morrow,C,21,Tennessee
+1945,24,248,CHI,Charley Wright,G,"",Iowa St.
+1945,24,249,WAS,Jim McCurdy,C,"",Stanford
+1945,24,250,PHI,Blair Brown,G,"",Oklahoma St.
+1945,24,251,NYG,Vince Mroz,E,"",Michigan St.
+1945,24,252,GNB,Lloyd Baxter,C,22,SMU
+1945,25,253,CRD,Hugo Norige,B,"",Wooster
+1945,25,254,PIT,Angelo Carlaccini,B,"",Pittsburgh
+1945,25,255,BOS,Jerry Whitney,B,"",USC
+1945,25,256,BOS,Bill Iancelli,E,"",William & Mary
+1945,25,257,RAM,Gene Konopka,G,"",Villanova
+1945,25,258,CHI,Jack Green,G,"",Alabama
+1945,25,259,WAS,Cecil Souders,E,24,Ohio St.
+1945,25,260,DET,Stan Green,T,"",Oklahoma
+1945,25,261,PHI,Bob Hall,E,"",Stanford
+1945,25,262,NYG,George Kita,B,"",Drake
+1945,25,263,GNB,Nolan Luhn,E,24,Tulsa
+1945,26,264,PIT,Ed Burns,B,"",Boston Col.
+1945,26,265,BOS,Felix Trapani,G,"",LSU
+1945,26,266,CRD,Gene (Red) Knight,B,"",LSU
+1945,26,267,BOS,Al Kull,T,"",Fordham
+1945,26,268,RAM,Ray Florek,B,"",Illinois
+1945,26,269,WAS,Ben Wall,B,"",West. Michigan
+1945,26,270,DET,Bob Ivory,G,21,Detroit Mercy
+1945,26,271,CHI,Lu Gambino,FB,21,Maryland
+1945,26,272,PHI,Don Talcott,T,24,Nevada
+1945,26,273,NYG,Doug Graham,T,"",Stanford
+1945,26,274,GNB,Nestor Blanco,G,"",Colorado Mines
+1945,27,275,BOS,Hal Finney,B,"",USC
+1945,27,276,CRD,Don Fambrough,B,"",Texas
+1945,27,277,PIT,Glen Stough,T,24,Duke
+1945,27,278,BOS,Bob Mangene,B,"",Boston Col.
+1945,27,279,RAM,Russ Perry,B,"",Wake Forest
+1945,27,280,DET,Dell Taylor,B,"",Tulsa
+1945,27,281,CHI,Ray Jones,B,"",Texas
+1945,27,282,WAS,George Hillery,E,"",Texas-El Paso
+1945,27,283,PHI,Bill Thompson,T,"",New Mexico
+1945,27,284,NYG,Jack Dillon,E,"",Texas Tech
+1945,27,285,GNB,Bill Chestnut,B,"",Kansas
+1945,28,286,CRD,Garland Williams,T,24,Georgia
+1945,28,287,PIT,Jim Marsh,T,"",Oklahoma St.
+1945,28,288,BOS,Don Fauble,B,"",Oklahoma
+1945,28,289,BOS,John Morelli,G,22,Georgetown (DC)
+1945,28,290,RAM,Pat West,FB,22,USC
+1945,28,291,CHI,Bob Hary,B,"",Minnesota
+1945,28,292,WAS,Milford Dreblow,B,"",USC
+1945,28,293,DET,Len Ciesla,B,"",Creighton
+1945,28,294,PHI,Al Fleming,C,"",Wichita St.
+1945,28,295,NYG,Charley Anthony,B,"",Brown
+1945,28,296,GNB,Jim Thompson,B,"",Washington St.
+1945,29,297,PIT,Ralph Grant,B,"",Bucknell
+1945,29,298,BOS,Nick Studen,B,"",Denver
+1945,29,299,CRD,Ed Dusek,B,"",Texas A&M
+1945,29,300,BOS,John Fisher,C,"",Harvard
+1945,29,301,RAM,Bill Davis,B,"",Oregon
+1945,29,302,WAS,Frank Irwin,T,"",Duke
+1945,29,303,DET,Frank Lopp,T,"",Wisconsin
+1945,29,304,CHI,Nick Forkovitch,FB,26,William & Mary
+1945,29,305,PHI,Leo Benjamin,C,"",West Virginia
+1945,29,306,NYG,Ray Pipkin,B,"",Arkansas
+1945,29,307,GNB,Jim Evans,E,"",Idaho
+1945,30,308,BOS,LaMar Dykstra,B,"",Colorado
+1945,30,309,CRD,Otto Payne,B,"",Texas A&M
+1945,30,310,PIT,John Kondrla,T,24,St. Vincent
+1945,30,311,BOS,Elmer Oberto,G,"",""
+1945,30,312,RAM,Charley Compton,T,"",Alabama
+1945,30,313,DET,Paul Limont,E,"",Notre Dame
+1945,30,314,CHI,Don Robinson,B,"",Michigan
+1945,30,315,WAS,Leon Diner,E,"",Denver
+1945,30,316,PHI,Jim Dougherty,B,"",Miami (OH)
+1945,30,317,NYG,Joe Wolf,C,"",USC
+1945,30,318,GNB,Ham Nichols,G,"",Rice
+1945,31,319,CHI,Wayne (Rusty) Johnston,B,"",Marquette
+1945,31,320,WAS,Bob Cummings,C,"",Vanderbilt
+1945,31,321,DET,Ben Schadler,B,"",Northwestern
+1945,31,322,PHI,Ken Reese,HB,24,Alabama
+1945,31,323,NYG,Bill Broderick,T,"",Utah
+1945,31,324,GNB,John Priday,B,"",Ohio St.
+1945,32,325,WAS,Don Nolander,C,23,Minnesota
+1945,32,326,DET,Tom Dorais,B,"",Detroit Mercy
+1945,32,327,CHI,George Groves,G,24,Marquette
+1945,32,328,PHI,Loren Braner,C,"",Pittsburgh
+1945,32,329,NYG,John Staples,G,"",Alabama
+1945,32,330,GNB,Billy Joe Aldridge,B,"",Oklahoma St.

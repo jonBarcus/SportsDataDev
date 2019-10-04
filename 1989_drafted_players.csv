@@ -1,0 +1,336 @@
+1989,Rnd,Pick,Tm,Player,Pos,Age,College/Univ
+1989,1,1,DAL,Troy Aikman HOF,QB,22,UCLA
+1989,1,2,GNB,Tony Mandarich,T,22,Michigan St.
+1989,1,3,DET,Barry Sanders HOF,RB,21,Oklahoma St.
+1989,1,4,KAN,Derrick Thomas HOF,LB,22,Alabama
+1989,1,5,ATL,Deion Sanders HOF,DB,22,Florida St.
+1989,1,6,TAM,Broderick Thomas,LB,22,Nebraska
+1989,1,7,PIT,Tim Worley,RB,22,Georgia
+1989,1,8,SDG,Burt Grossman,DE,22,Pittsburgh
+1989,1,9,MIA,Sammie Smith,RB,22,Florida St.
+1989,1,10,PHO,Eric Hill,LB,22,LSU
+1989,1,11,CHI,Donnell Woolford,DB,23,Clemson
+1989,1,12,CHI,Trace Armstrong,DE,23,Florida
+1989,1,13,CLE,Eric Metcalf,RB,21,Texas
+1989,1,14,NYJ,Jeff Lageman,DE,22,Virginia
+1989,1,15,SEA,Andy Heck,T,22,Notre Dame
+1989,1,16,NWE,Hart Lee Dykes,WR,23,Oklahoma St.
+1989,1,17,PHO,Joe Wolf,T,22,Boston Col.
+1989,1,18,NYG,Brian Williams,C,23,Minnesota
+1989,1,19,NOR,Wayne Martin,DE,23,Arkansas
+1989,1,20,DEN,Steve Atwater,DB,22,Arkansas
+1989,1,21,RAM,Bill Hawkins,DE,23,Miami (FL)
+1989,1,22,IND,Andre Rison,WR,22,Michigan St.
+1989,1,23,HOU,David Williams,T,23,Florida
+1989,1,24,PIT,Tom Ricketts,G,23,Pittsburgh
+1989,1,25,MIA,Louis Oliver,DB,23,Florida
+1989,1,26,RAM,Cleveland Gary,RB,23,Miami (FL)
+1989,1,27,ATL,Shawn Collins,WR,22,Northern Arizona
+1989,1,28,SFO,Keith DeLong,LB,22,Tennessee
+1989,2,29,DAL,Steve Wisniewski,G,22,Penn St.
+1989,2,30,DET,John Ford,WR,23,Virginia
+1989,2,31,CLE,Lawyer Tillman,WR,23,Auburn
+1989,2,32,KAN,Mike Elkins,QB,23,Wake Forest
+1989,2,33,TAM,Danny Peebles,WR,23,North Carolina St.
+1989,2,34,PIT,Carnell Lake,DB,22,UCLA
+1989,2,35,CIN,Eric Ball,RB,23,UCLA
+1989,2,36,CHI,John Roper,LB,23,Texas A&M
+1989,2,37,SDG,Courtney Hall,C,21,Rice
+1989,2,38,ATL,Ralph Norwood,T,23,LSU
+1989,2,39,DAL,Daryl Johnston,RB,23,Syracuse
+1989,2,40,PHO,Walter Reeves,TE,23,Auburn
+1989,2,41,DEN,Doug Widell,G,22,Boston Col.
+1989,2,42,NYJ,Dennis Byrd,DT,22,Tulsa
+1989,2,43,NWE,Eric Coleman,DB,22,Wyoming
+1989,2,44,SEA,Joe Tofflemire,C,24,Arizona
+1989,2,45,RAM,Frank Stams,LB,24,Notre Dame
+1989,2,46,NOR,Robert Massey,DB,22,North Carolina Central
+1989,2,47,DEN,Warren Powers,DE,24,Maryland
+1989,2,48,RAM,Brian Smith,LB,23,Auburn
+1989,2,49,PHI,Jessie Small,LB,22,East. Kentucky
+1989,2,50,HOU,Scott Kozak,LB,23,Oregon
+1989,2,51,SDG,Billy Joe Tolliver,QB,23,Texas Tech
+1989,2,52,MIN,David Braxton,LB,24,Wake Forest
+1989,2,53,RAM,Darryl Henley,DB,22,UCLA
+1989,2,54,CHI,Dave Zawatson,G,23,California
+1989,2,55,CIN,Freddie Childress,G,22,Arkansas
+1989,2,56,SFO,Wesley Walls,TE,23,Mississippi
+1989,3,57,DAL,Mark Stepnoski,C,22,Pittsburgh
+1989,3,58,GNB,Matt Brock,DE,23,Oregon
+1989,3,59,DET,Mike Utley,G,23,Washington St.
+1989,3,60,KAN,Naz Worthen,WR,23,North Carolina St.
+1989,3,61,PIT,Derek Hill,WR,21,Arizona
+1989,3,62,ATL,Keith Jones,RB,23,Illinois
+1989,3,63,NWE,Marv Cook,TE,23,Iowa
+1989,3,64,NYG,Bob Kratch,G,23,Iowa
+1989,3,65,CHI,Jerry Fontenot,C,22,Texas A&M
+1989,3,66,WAS,Tracy Rocker,DT,23,Auburn
+1989,3,67,PHO,Mike Zandofsky,G,23,Washington
+1989,3,68,DAL,Rhondy Weston,DE,23,Florida
+1989,3,69,DEN,Darrell Hamilton,T,24,North Carolina
+1989,3,70,NYJ,Joe Mott,LB,23,Iowa
+1989,3,71,SEA,Elroy Harris,RB,23,East. Kentucky
+1989,3,72,IND,Mitchell Benson,NT,22,TCU
+1989,3,73,NWE,Chris Gannon,DE,23,Louisiana
+1989,3,74,GNB,Anthony Dilweg,QB,24,Duke
+1989,3,75,RAM,Kevin Robbins,T,22,Michigan St.
+1989,3,76,PHI,Robert Drummond,RB,22,Syracuse
+1989,3,77,HOU,Bubba McDowell,DB,22,Miami (FL)
+1989,3,78,NYG,Greg Jackson,DB,23,LSU
+1989,3,79,NOR,Kim Phillips,DB,22,North Texas
+1989,3,80,MIN,John Hunter,T,24,BYU
+1989,3,81,PHI,Britt Hager,LB,23,Texas
+1989,3,82,BUF,Don Beebe,WR,24,Chadron St.
+1989,3,83,CIN,Erik Wilhelm,QB,23,Oregon St.
+1989,3,84,SFO,Keith Henderson,RB,23,Georgia
+1989,4,85,DAL,Tony Tolbert,DE,21,Texas-El Paso
+1989,4,86,DET,Ray Crockett,DB,22,Baylor
+1989,4,87,GNB,Jeff Graham,QB,"",Long Beach St.
+1989,4,88,KAN,Stan Petry,DB,23,TCU
+1989,4,89,CIN,Kerry Owens,LB,"",Arkansas
+1989,4,90,TAM,Anthony Florence,DB,22,Bethune-Cookman
+1989,4,91,PIT,Jerrol Williams,LB,22,Purdue
+1989,4,92,MIA,David Holmes,DB,"",Syracuse
+1989,4,93,NYG,Lewis Tillman,RB,23,Jackson St.
+1989,4,94,PHO,Jim Wahler,NT,23,UCLA
+1989,4,95,CHI,Markus Paul,DB,23,Syracuse
+1989,4,96,NWE,Maurice Hurst,DB,21,Saginaw Valley St.
+1989,4,97,DEN,Jake McCullough,DE,24,Clemson
+1989,4,98,NYJ,Ron Stallworth,DE,23,Auburn
+1989,4,99,IND,Pat Tomberlin,G,23,Florida St.
+1989,4,100,NWE,Michael Timpson,WR,22,Penn St.
+1989,4,101,SEA,Travis McNeal,TE,22,Tenn-Chattanooga
+1989,4,102,RAM,Jeff Carlson,QB,23,Weber St.
+1989,4,103,SEA,James Henry,DB,"",Southern Miss
+1989,4,104,HOU,Rod Harris,WR,22,Texas A&M
+1989,4,105,NYG,Brad Henke,DE,23,Arizona
+1989,4,106,NOR,Michael Mayes,DB,23,LSU
+1989,4,107,CLE,Andrew Stewart,DE,23,Cincinnati
+1989,4,108,MIN,Darryl Ingram,TE,23,California
+1989,4,109,BUF,John Kolesar,WR,"",Michigan
+1989,4,110,WAS,Erik Affholter,WR,23,USC
+1989,4,111,CIN,Rob Woods,T,23,Arizona
+1989,4,112,SFO,Michael Barber,WR,22,Marshall
+1989,5,113,DAL,Keith Jennings,TE,23,Clemson
+1989,5,114,CLE,Kyle Kramer,DB,22,Bowling Green
+1989,5,115,DET,Lawrence Pete,NT,23,Nebraska
+1989,5,116,CLE,Vernon Joines,WR,24,Maryland
+1989,5,117,TAM,Jamie Lawson,RB,23,Nicholls St.
+1989,5,118,PIT,David Arnold,DB,22,Michigan
+1989,5,119,DAL,Willis Crockett,LB,23,Georgia Tech
+1989,5,120,SDG,Elliot Smith,DB,22,Alcorn St.
+1989,5,121,MIA,Jeff Uhlenhake,C,23,Ohio St.
+1989,5,122,SFO,Johnnie Jackson,DB,22,Houston
+1989,5,123,PHO,Richard Tardits,LB,24,Georgia
+1989,5,124,GNB,Jeff Query,WR,22,Millikin
+1989,5,125,DAL,Jeff Roth,DT,"",Florida
+1989,5,126,NYJ,Tony Martin,WR,24,Mesa
+1989,5,127,GNB,Vince Workman,RB,21,Ohio St.
+1989,5,128,PHO,David Edeen,DE,"",Wyoming
+1989,5,129,WAS,Tim Smiley,DB,"",Arkansas St.
+1989,5,130,CHI,Mark Green,RB,22,Notre Dame
+1989,5,131,HOU,Glenn Montgomery,DT,22,Houston
+1989,5,132,NYG,Dave Meggett,RB,23,Towson
+1989,5,133,NOR,Kevin Haverdink,T,23,West. Michigan
+1989,5,134,DEN,Darren Carrington,DB,22,Northern Arizona
+1989,5,135,RAM,Alfred Jackson,WR,22,San Diego St.
+1989,5,136,CHI,Greg Gilbert,LB,"",Alabama
+1989,5,137,BUF,Michael Andrews,DB,"",Alcorn St.
+1989,5,138,CIN,Natu Tuatagaloa,DE,23,California
+1989,5,139,WAS,Lybrant Robinson,DE,25,Delaware St.
+1989,6,140,RAI,Jeff Francis,QB,23,Tennessee
+1989,6,141,DET,Rodney Peete,QB,23,USC
+1989,6,142,GNB,Chris Jacke,K,23,Texas-El Paso
+1989,6,143,KAN,Robb Thomas,WR,23,Oregon St.
+1989,6,144,PIT,Mark Stock,WR,23,VMI
+1989,6,145,ATL,Troy Sadowski,TE,23,Georgia
+1989,6,146,TAM,Chris Mohr,P,23,Alabama
+1989,6,147,MIA,Wes Pritchett,LB,23,Notre Dame
+1989,6,148,RAM,Thom Kaumeyer,DB,22,Oregon
+1989,6,149,WAS,A.J. Johnson,DB,22,Texas St.
+1989,6,150,PHO,Jay Taylor,DB,21,San Jose St.
+1989,6,151,NYJ,Marvin Washington,DE,23,Idaho
+1989,6,152,DEN,Anthony Stafford,WR,"",Oklahoma
+1989,6,153,NYJ,Titus Dixon,WR,23,Troy
+1989,6,154,TAM,Derrick Little,LB,"",South Carolina
+1989,6,155,IND,Quintus McDonald,LB,22,Penn St.
+1989,6,156,RAI,Doug Lloyd,RB,24,North Dakota St.
+1989,6,157,HOU,Bo Orlando,DB,23,West Virginia
+1989,6,158,NYG,Howard Cross,TE,22,Alabama
+1989,6,159,NOR,Floyd Turner,WR,23,NW State (LA)
+1989,6,160,CLE,Gary Wilkerson,DB,"",Penn St.
+1989,6,161,RAM,Mark Messner,LB,23,Michigan
+1989,6,162,PHI,Heath Sherman,RB,22,Texas A&M-Kingsville
+1989,6,163,MIN,Jeff Mickel,T,23,East. Washington
+1989,6,164,BUF,Sean Doctor,RB,"",Marshall
+1989,6,165,NWE,Eric Mitchel,RB,"",Oklahoma
+1989,6,166,CIN,Craig Taylor,RB,23,West Virginia
+1989,6,167,SFO,Steve Hendrickson,LB,23,California
+1989,7,168,DAL,Kevin Peterson,LB,"",Northwestern
+1989,7,169,GNB,Mark Hall,DE,24,Louisiana
+1989,7,170,DET,Jerry Woods,DB,23,Northern Michigan
+1989,7,171,KAN,Ron Sancho,LB,"",LSU
+1989,7,172,ATL,Undra Johnson,RB,23,West Virginia
+1989,7,173,BUF,Brian Jordan,DB,22,Richmond
+1989,7,174,PIT,D.J. Johnson,DB,23,Kentucky
+1989,7,175,NYG,Dave Popp,T,"",East. Illinois
+1989,7,176,MIA,Jim Zdelar,T,"",Youngstown St.
+1989,7,177,PHO,Ricky Royal,DB,23,Sam Houston St.
+1989,7,178,NWE,Eric Lindstrom,LB,"",Boston Col.
+1989,7,179,WAS,Kevin Hendrix,LB,"",South Carolina
+1989,7,180,DEN,Mel Bratton,RB,24,Miami (FL)
+1989,7,181,NYJ,Stevon Moore,DB,22,Mississippi
+1989,7,182,IND,Ivy Joe Hunter,RB,22,Kentucky
+1989,7,183,SDG,Marion Butts,RB,23,Florida St.
+1989,7,184,SEA,Mike Nettles,DB,"",Memphis
+1989,7,185,IND,Charles Washington,DB,22,Cameron
+1989,7,186,NOR,David Griggs,LB,22,Virginia
+1989,7,187,CLE,Mike Graybill,T,22,Boston Univ.
+1989,7,188,RAM,George Bethune,LB,22,Alabama
+1989,7,189,CHI,Richard Brothers,DB,"",Arkansas
+1989,7,190,HOU,Tracy Rogers,LB,22,Fresno St.
+1989,7,191,MIN,Benji Roland,DE,22,Auburn
+1989,7,192,CHI,Brent Snyder,QB,"",Utah St.
+1989,7,193,BUF,Chris Hale,DB,23,USC
+1989,7,194,CIN,Kendal Smith,WR,23,Utah St.
+1989,7,195,SDG,Terrence Jones,QB,"",Tulane
+1989,8,196,DAL,Charvez Foger,RB,"",Nevada
+1989,8,197,DET,Chris Parker,DT,"",West Virginia
+1989,8,198,GNB,Thomas King,DB,"",Louisiana
+1989,8,199,KAN,Bryan Tobey,RB,"",Grambling St.
+1989,8,200,TAM,Carl Bax,G,23,Missouri
+1989,8,201,PIT,Chris Asbeck,DT,"",Cincinnati
+1989,8,202,ATL,Paul Singer,QB,"",West. Illinois
+1989,8,203,MIA,Pete Stoyanovich,K,22,Indiana
+1989,8,204,SDG,Dana Brinson,WR,24,Nebraska
+1989,8,205,RAI,Derrick Gainer,RB,23,Florida A&M
+1989,8,206,GNB,Brian Shulman,P,"",Auburn
+1989,8,207,PHO,John Burch,RB,"",Tenn-Martin
+1989,8,208,DEN,Paul Green,TE,22,USC
+1989,8,209,NYJ,A.B. Brown,RB,23,West Virginia
+1989,8,210,NWE,Rodney Rice,DB,23,BYU
+1989,8,211,SEA,Martin Williams,DE,"",West. Illinois
+1989,8,212,IND,Kurt Larson,LB,23,Michigan St.
+1989,8,213,NOR,Fred Hadley,WR,"",Mississippi St.
+1989,8,214,CLE,Rick Aeilts,TE,"",SE Missouri St.
+1989,8,215,RAM,Warren Wheat,G,22,BYU
+1989,8,216,CHI,Tony Woods,DT,23,Oklahoma
+1989,8,217,HOU,Alvoid Mays,DB,23,West Virginia
+1989,8,218,NYG,Myron Guyton,DB,22,East. Kentucky
+1989,8,219,MIN,Alex Stewart,DE,"",Cal State-Fullerton
+1989,8,220,KAN,Todd McNair,RB,23,Temple
+1989,8,221,CHI,Chris Dyko,T,23,Washington St.
+1989,8,222,CIN,Chris Chenault,LB,"",Kentucky
+1989,8,223,NWE,Tony Zackery,DB,22,Washington
+1989,9,224,DAL,Tim Jackson,DB,23,Nebraska
+1989,9,225,GNB,Scott Kirby,T,"",Arizona St.
+1989,9,226,DET,Derek MacCready,DE,"",Ohio St.
+1989,9,227,KAN,Jack Phillips,DB,"",Alcorn St.
+1989,9,228,PIT,A.J. Jenkins,LB,23,Cal State-Fullerton
+1989,9,229,ATL,Chris Dunn,LB,"",Cal Poly-San Luis Obispo
+1989,9,230,TAM,Patrick Egu,RB,22,Nevada
+1989,9,231,SDG,Pat Davis,TE,"",Syracuse
+1989,9,232,MIA,Dana Batisite,LB,"",Texas A&M
+1989,9,233,WAS,Charles Darrington,TE,"",Kentucky
+1989,9,234,PHO,Kendall Trainor,K,"",Arkansas
+1989,9,235,RAI,Gary Gooden,DB,"",Indiana
+1989,9,236,DEN,Monte Smith,G,22,North Dakota
+1989,9,237,NYJ,Pat Marlatt,DT,"",West Virginia
+1989,9,238,SEA,David Franks,G,"",Connecticut
+1989,9,239,IND,William Mackall,WR,"",Tenn-Martin
+1989,9,240,NWE,Darron Norris,RB,"",Texas
+1989,9,241,DEN,Wayne Williams,RB,"",Florida
+1989,9,242,RAM,Vernon Kirk,TE,"",Pittsburgh
+1989,9,243,CHI,LaSalle Harper,LB,22,Arkansas
+1989,9,244,HOU,Bob Mrosko,TE,23,Penn St.
+1989,9,245,NYG,A.J. Greene,DB,23,Wake Forest
+1989,9,246,NOR,Jerry Leggett,LB,"",Cal State-Fullerton
+1989,9,247,NWE,Curtis Wilson,C,"",Missouri
+1989,9,248,CHI,Byron Sanders,RB,"",Northwestern
+1989,9,249,BUF,Pat Rabold,DT,"",Wyoming
+1989,9,250,CIN,Richard Stephens,G,24,Tulsa
+1989,9,251,SFO,Rudy Harmon,LB,"",LSU
+1989,10,252,DAL,Rod Carter,LB,"",Miami (FL)
+1989,10,253,DET,Jason Phillips,WR,22,Houston
+1989,10,254,GNB,Ben Jessie,DB,"",Texas St.
+1989,10,255,KAN,Rob McGovern,LB,22,Holy Cross
+1989,10,256,CIN,Cornell Holloway,DB,23,Pittsburgh
+1989,10,257,TAM,Ty Granger,T,"",Clemson
+1989,10,258,PIT,Jerry Olsavsky,LB,22,Pittsburgh
+1989,10,259,MIA,Deval Glover,WR,"",Syracuse
+1989,10,260,SDG,Ricky Andrews,LB,23,Washington
+1989,10,261,PHO,Chris Becker,P,"",TCU
+1989,10,262,RAI,Charles Jackson,DT,"",Jackson St.
+1989,10,263,WAS,Mark Schlereth,G,23,Idaho
+1989,10,264,DEN,Anthony Butts,DT,"",Mississippi St.
+1989,10,265,NYJ,Adam Bob,LB,21,Texas A&M
+1989,10,266,IND,Jim Thompson,T,"",Auburn
+1989,10,267,NWE,Emanuel McNeil,NT,22,Tenn-Martin
+1989,10,268,SEA,Derrick Fenner,RB,22,North Carolina
+1989,10,269,RAM,Mike Williams,WR,22,Northeastern
+1989,10,270,CHI,Todd Millikan,TE,"",Nebraska
+1989,10,271,HOU,Tracy Johnson,RB,22,Clemson
+1989,10,272,NYG,Rodney Lowe,DE,"",Mississippi
+1989,10,273,NOR,Joe Henderson,RB,"",Iowa St.
+1989,10,274,CLE,John Buddenberg,T,"",Akron
+1989,10,275,MIA,Greg Ross,DT,"",Memphis
+1989,10,276,BUF,Carlo Cheattom,DB,"",Auburn
+1989,10,277,CHI,John Simpson,WR,"",Baylor
+1989,10,278,CIN,Bob Jean,QB,"",New Hampshire
+1989,10,279,SFO,Andy Sinclair,C,"",Stanford
+1989,11,280,DAL,Randy Shannon,LB,23,Miami (FL)
+1989,11,281,GNB,Cedric Stallworth,DB,"",Georgia Tech
+1989,11,282,DET,Keith Karpinski,LB,22,Penn St.
+1989,11,283,KAN,Marcus Turner,DB,23,UCLA
+1989,11,284,TAM,Rod Mounts,G,"",Texas A&M-Kingsville
+1989,11,285,PIT,Brian Slater,WR,"",Washington
+1989,11,286,ATL,Greg Paterra,RB,22,Slippery Rock
+1989,11,287,SDG,Victor Floyd,RB,23,Florida St.
+1989,11,288,MIA,Bert Weidner,G,23,Kent St.
+1989,11,289,SFO,Jim Bell,RB,"",Boston Col.
+1989,11,290,TAM,Willie Griffin,DE,"",Nebraska
+1989,11,291,PHO,Jeff Hunter,DE,23,Albany State (GA)
+1989,11,292,DEN,Richard Shelton,DB,23,Liberty
+1989,11,293,NYJ,Artie Holmes,DB,"",Washington St.
+1989,11,294,NWE,Tony Hinz,RB,"",Harvard
+1989,11,295,SEA,Mike Baum,DE,"",Northwestern
+1989,11,296,IND,Wayne Johnson,QB,"",Georgia
+1989,11,297,CHI,Joe Nelms,DT,"",California
+1989,11,298,HOU,Brian Smider,T,"",West Virginia
+1989,11,299,NYG,Jerome Rinehart,LB,"",Tenn-Martin
+1989,11,300,NOR,Calvin Nicholson,DB,22,Oregon St.
+1989,11,301,CLE,Dan Plocki,K,"",Maryland
+1989,11,302,TAM,Herb Duncan,WR,"",Northern Arizona
+1989,11,303,MIN,Brad Baxter,RB,22,Alabama St.
+1989,11,304,CHI,George Streeter,DB,22,Notre Dame
+1989,11,305,BUF,Richard Harvey,LB,22,Tulane
+1989,11,306,CIN,Dana Wells,NT,23,Arizona
+1989,11,307,SFO,Norm McGee,WR,"",North Dakota
+1989,12,308,DAL,Scott Ankrom,WR,23,TCU
+1989,12,309,DET,James Cribbs,DE,23,Memphis
+1989,12,310,GNB,Stan Shiver,DB,"",Florida St.
+1989,12,311,KAN,Bill Jones,RB,22,Texas St.
+1989,12,312,PIT,Carlton Haselrig,G,23,Pittsburgh-Johnstown
+1989,12,313,ATL,Tony Bowick,NT,22,Tenn-Chattanooga
+1989,12,314,IND,William DuBose,RB,"",South Carolina St.
+1989,12,315,MIA,J.B. Brown,DB,22,Maryland
+1989,12,316,WAS,Jimmie Johnson,TE,22,Howard
+1989,12,317,WAS,Joe Mickles,RB,23,Mississippi
+1989,12,318,PHO,Todd Nelson,G,"",Wisconsin
+1989,12,319,SFO,Antonio Goss,LB,23,North Carolina
+1989,12,320,DEN,John Javis,WR,"",Howard
+1989,12,321,NYJ,Willie Snead,WR,"",Florida
+1989,12,322,SEA,R.J. Kors,DB,23,Long Beach St.
+1989,12,323,IND,Steve Taylor,QB,"",Nebraska
+1989,12,324,NWE,Aaron Chubb,LB,"",Georgia
+1989,12,325,HOU,Chuck Hartlieb,QB,"",Iowa
+1989,12,326,NYG,Eric Smith,LB,"",UCLA
+1989,12,327,NOR,Mike Cadore,WR,"",East. Kentucky
+1989,12,328,CLE,Marlon Brown,LB,"",Memphis
+1989,12,329,TAM,Terry Young,DB,"",Georgia Southern
+1989,12,330,CHI,Freddy Weygand,WR,"",Auburn
+1989,12,331,MIN,Shawn Woodson,LB,"",James Madison
+1989,12,332,BUF,Derrell Marshall,T,"",USC
+1989,12,333,CHI,Anthony Phillips,G,"",Oklahoma
+1989,12,334,CIN,Scott Jones,T,23,Washington
+1989,12,335,MIN,Everett Ross,WR,"",Ohio St.

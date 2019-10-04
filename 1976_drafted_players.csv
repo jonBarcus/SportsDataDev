@@ -1,0 +1,488 @@
+1976,Rnd,Pick,Tm,Player,Pos,Age,College/Univ
+1976,1,1,TAM,Lee Roy Selmon HOF,DE,21,Oklahoma
+1976,1,2,SEA,Steve Niehaus,DT,21,Notre Dame
+1976,1,3,NOR,Chuck Muncie,RB,23,California
+1976,1,4,SDG,Joe Washington,RB,22,Oklahoma
+1976,1,5,NWE,Mike Haynes HOF,DB,23,Arizona St.
+1976,1,6,NYJ,Richard Todd,QB,22,Alabama
+1976,1,7,CLE,Mike Pruitt,RB,22,Purdue
+1976,1,8,CHI,Dennis Lick,T,22,Wisconsin
+1976,1,9,ATL,Bubba Bean,RB,22,Texas A&M
+1976,1,10,DET,James Hunter,DB,22,Grambling St.
+1976,1,11,CIN,Billy Brooks,WR,23,Oklahoma
+1976,1,12,NWE,Pete Brock,C,22,Colorado
+1976,1,13,NYG,Troy Archer,DT,21,Colorado
+1976,1,14,KAN,Rod Walters,G,22,Iowa
+1976,1,15,DEN,Tom Glassic,G,22,Virginia
+1976,1,16,DET,Lawrence Gaines,RB,22,Wyoming
+1976,1,17,MIA,Larry Gordon,LB,22,Arizona St.
+1976,1,18,BUF,Mario Clark,DB,22,Oregon
+1976,1,19,MIA,Kim Bokamper,DE,21,San Jose St.
+1976,1,20,BAL,Ken Novak,DT,22,Purdue
+1976,1,21,NWE,Tim Fox,DB,22,Ohio St.
+1976,1,22,STL,Mike Dawson,DT,22,Arizona
+1976,1,23,GNB,Mark Koncar,T,23,Colorado
+1976,1,24,CIN,Archie Griffin,RB,22,Ohio St.
+1976,1,25,MIN,James White,DT,22,Oklahoma St.
+1976,1,26,RAM,Kevin McLain,LB,21,Colorado St.
+1976,1,27,DAL,Aaron Kyle,DB,22,Wyoming
+1976,1,28,PIT,Bennie Cunningham,TE,21,Clemson
+1976,2,29,SEA,Sammy Green,LB,21,Florida
+1976,2,30,TAM,Jimmy DuBose,RB,21,Florida
+1976,2,31,SDG,Don Macek,C,22,Boston Col.
+1976,2,32,NOR,Tony Galbreath,RB,22,Missouri
+1976,2,33,NYJ,Shafer Suggs,DB,23,Ball St.
+1976,2,34,OAK,Charles Philyaw,DE,22,Texas Southern
+1976,2,35,NWE,Ike Forte,RB,22,Arkansas
+1976,2,36,ATL,Sonny Collins,RB,23,Kentucky
+1976,2,37,PIT,Ray Pinney,T,22,Washington
+1976,2,38,CIN,Glenn Bujnoch,G,22,Texas A&M
+1976,2,39,RAM,Pat Thomas,DB,22,Texas A&M
+1976,2,40,DAL,Jim Jensen,RB,22,Iowa
+1976,2,41,KAN,Cliff Frazier,DT,23,UCLA
+1976,2,42,SFO,Randy Cross,G,22,UCLA
+1976,2,43,DEN,Kurt Knoff,DB,22,Kansas
+1976,2,44,DET,Ken Long,G,23,Purdue
+1976,2,45,BUF,Ken Jones,T,23,Arkansas St.
+1976,2,46,DET,David Hill,TE,22,Texas A&M-Kingsville
+1976,2,47,PIT,Mike Kruczek,QB,23,Boston Col.
+1976,2,48,HOU,Mike Barber,TE,23,Louisiana Tech
+1976,2,49,MIA,Loaird McCreary,TE,23,Tennessee St.
+1976,2,50,OAK,Jeb Blount,QB,22,Tulsa
+1976,2,51,CIN,Chris Bahr,K,23,Penn St.
+1976,2,52,BUF,Joe Devlin,T,22,Iowa
+1976,2,53,RAM,Ron McCartney,LB,22,Tennessee
+1976,2,54,MIN,Sammy White,WR,22,Grambling St.
+1976,2,55,DAL,Jim Eidson,G,22,Mississippi St.
+1976,2,56,PIT,James Files,C,"",McNeese St.
+1976,2,57,SFO,Eddie Lewis,DB,22,Kansas
+1976,2,58,SEA,Sherman Smith,RB,21,Miami (OH)
+1976,2,59,SEA,Steve Raible,WR,22,Georgia Tech
+1976,2,60,TAM,Dewey Selmon,LB,22,Oklahoma
+1976,3,61,TAM,Steve Young,T,23,Colorado
+1976,3,62,SEA,Jeff Lloyd,DE,22,West Texas A&M
+1976,3,63,KAN,Keith Simons,DT,22,Minnesota
+1976,3,64,SDG,Larry Dorsey,WR,23,Tennessee St.
+1976,3,65,CLE,Dave Logan,WR,22,Colorado
+1976,3,66,CHI,Brian Baschnagel,WR,22,Ohio St.
+1976,3,67,NYJ,Greg Buttle,LB,22,Penn St.
+1976,3,68,DET,Russ Bolinger,G,21,Long Beach St.
+1976,3,69,CIN,Danny Reece,DB,21,USC
+1976,3,70,PIT,Ron Coder,G,22,Penn St.
+1976,3,71,ATL,Dave Scott,G,22,Kansas
+1976,3,72,GNB,Mike McCoy,DB,23,Colorado
+1976,3,73,DAL,Duke Fergerson,WR,22,San Diego St.
+1976,3,74,KAN,Gary Barbaro,DB,22,Nicholls St.
+1976,3,75,DAL,John Smith,RB,"",Boise St.
+1976,3,76,DET,John Woodcock,DT,22,Hawaii
+1976,3,77,NOR,Bob Simmons,G,22,Texas
+1976,3,78,BUF,Ben Williams,DE,22,Mississippi
+1976,3,79,KAN,Henry Marshall,WR,22,Missouri
+1976,3,80,MIA,Duriel Harris,WR,21,New Mexico St.
+1976,3,81,BAL,Ed Simonini,LB,22,Texas A&M
+1976,3,82,CIN,Reggie Williams,LB,21,Dartmouth
+1976,3,83,STL,Brad Oates,T,22,BYU
+1976,3,84,OAK,Rik Bonness,LB,22,Nebraska
+1976,3,85,MIN,Wes Hamilton,G,23,Tulsa
+1976,3,86,RAM,Jackie Slater HOF,T,22,Jackson St.
+1976,3,87,DAL,Butch Johnson,WR,22,California-Riverside
+1976,3,88,PIT,Ernest Pough,WR,24,Texas Southern
+1976,3,89,SEA,Rick Engles,P,22,Tulsa
+1976,3,90,BAL,Ron Lee,RB,22,West Virginia
+1976,3,91,TAM,Steve Maughan,LB,"",Utah St.
+1976,3,92,SEA,Don Bitterlich,K,22,Temple
+1976,4,93,SEA,Steve Myer,QB,22,New Mexico
+1976,4,94,SDG,Bob Horn,LB,22,Oregon St.
+1976,4,95,NOR,Tinker Owens,WR,21,Oklahoma
+1976,4,96,RAM,Gerald Taylor,WR,"",Texas A&M-Kingsville
+1976,4,97,CLE,Gene Swick,QB,"",Toledo
+1976,4,98,MIA,Melvin Mitchell,G,23,Tennessee St.
+1976,4,99,CLE,Mike St. Clair,DE,23,Grambling St.
+1976,4,100,SFO,Steve Rivera,WR,22,California
+1976,4,101,GNB,Tom Perko,LB,22,Pittsburgh
+1976,4,102,ATL,Walt Brett,G,"",Montana
+1976,4,103,CHI,John Sciarra,DB,22,UCLA
+1976,4,104,NYG,Gordon Bell,RB,22,Michigan
+1976,4,105,NYG,Harry Carson HOF,LB,22,South Carolina St.
+1976,4,106,CIN,Tony Davis,RB,23,Nebraska
+1976,4,107,DEN,Craig Penrose,QB,23,San Diego St.
+1976,4,108,CHI,Wayne Rhodes,DB,"",Alabama
+1976,4,109,BUF,Dan Jilek,LB,22,Michigan
+1976,4,110,OAK,Herb McMath,DT,22,Morningside
+1976,4,111,PHI,Mike Smith,DE,"",Florida
+1976,4,112,PIT,Wonder Monds,DB,24,Nebraska
+1976,4,113,SDG,Ron Singleton,T,24,Grambling St.
+1976,4,114,STL,Pat Tilley,WR,23,Louisiana Tech
+1976,4,115,SDG,Artie Owens,WR,23,West Virginia
+1976,4,116,CIN,Greg Fairchild,G,22,Tulsa
+1976,4,117,HOU,Steve Largent HOF,WR,21,Tulsa
+1976,4,118,MIN,Leonard Willis,WR,23,Ohio St.
+1976,4,119,DAL,Tom Rafferty,C,22,Penn St.
+1976,4,120,PIT,Theo Bell,WR,22,Arizona
+1976,4,121,TAM,Richard Appleby,WR,"",Georgia
+1976,4,122,SEA,Randy Johnson,G,23,Georgia
+1976,4,123,SEA,Andy Bolton,RB,22,Fisk
+1976,4,124,TAM,Everett Little,G,22,Houston
+1976,5,125,TAM,Mishael Kelson,DB,"",West Texas A&M
+1976,5,126,SEA,Don Dufek,DB,22,Michigan
+1976,5,127,NOR,Scott Parrish,T,"",Utah St.
+1976,5,128,RAM,Carl Ekern,LB,22,San Jose St.
+1976,5,129,NYJ,Steve King,T,"",Michigan
+1976,5,130,CLE,Henry Sheppard,G,23,SMU
+1976,5,131,SDG,Woodrow Lowe,LB,22,Alabama
+1976,5,132,GNB,Aundra Thompson,WR,23,Texas A&M-Commerce
+1976,5,133,MIN,Steve Wagner,DB,22,Wisconsin
+1976,5,134,BAL,Sanders Shiver,LB,22,Carson-Newman
+1976,5,135,PHI,Greg Johnson,DT,22,Florida St.
+1976,5,136,NYG,Melvin Wilson,DB,"",Cal State-Northridge
+1976,5,137,KAN,Willie Lee,DT,26,Bethune-Cookman
+1976,5,138,CIN,Willie Shelby,RB,23,Alabama
+1976,5,139,DEN,Lonnie Perrin,RB,24,Illinois
+1976,5,140,SFO,Tony Leonard,DB,23,Virginia Union
+1976,5,141,STL,Wayne Morris,RB,22,SMU
+1976,5,142,BUF,Fred Coleman,TE,23,La-Monroe
+1976,5,143,BAL,Mike Kirkland,QB,22,Arkansas
+1976,5,144,KAN,Jimbo Elrod,LB,22,Oklahoma
+1976,5,145,DET,Steadman Scavella,LB,"",Miami (FL)
+1976,5,146,OAK,Fred Steinfort,K,23,Boston Col.
+1976,5,147,CIN,Scott Perry,DB,22,Williams
+1976,5,148,WAS,Mike Hughes,G,"",Baylor
+1976,5,149,RAM,Ken Bordelon,LB,22,LSU
+1976,5,150,MIN,Keith Barnette,RB,"",Boston Col.
+1976,5,151,DAL,Wally Pesuit,G,22,Kentucky
+1976,5,152,PIT,Rodney Norton,LB,"",Rice
+1976,5,153,SEA,Ernie Jones,DB,23,Miami (FL)
+1976,5,154,TAM,Steve Wilson,C,22,Georgia
+1976,5,155,RAM,Dwight Scales,WR,23,Grambling St.
+1976,5,156,SEA,Larry Bates,RB,"",Miami (FL)
+1976,6,157,SEA,Al Darby,TE,21,Florida
+1976,6,158,TAM,Curtis Jordan,DB,22,Texas Tech
+1976,6,159,PIT,Gary Dunn,NT,23,Miami (FL)
+1976,6,160,NOR,Terry Stieve,G,22,Wisconsin
+1976,6,161,CHI,Dan Jiggetts,T,22,Harvard
+1976,6,162,NYG,Dan Lloyd,LB,22,Washington
+1976,6,163,NYJ,Bob Martin,LB,22,Nebraska
+1976,6,164,BUF,Leslie Benson,DE,"",Baylor
+1976,6,165,PHI,Kirk Johnson,T,"",Howard Payne
+1976,6,166,KAN,Steve Taylor,DB,22,Kansas
+1976,6,167,KAN,Bob Gregolunas,LB,"",Northern Illinois
+1976,6,168,SFO,Robert Pennywell,LB,21,Grambling St.
+1976,6,169,ATL,Stan Varner,DT,"",BYU
+1976,6,170,NWE,Greg Boyd,DE,23,San Diego St.
+1976,6,171,BUF,Scott Piper,WR,22,Arizona
+1976,6,172,KAN,Calvin Harper,T,"",Illinois St.
+1976,6,173,HOU,Todd Simonsen,T,"",South Dakota St.
+1976,6,174,MIA,Gary Davis,RB,22,Cal Poly-San Luis Obispo
+1976,6,175,BUF,Darnell Powell,RB,22,Tenn-Chattanooga
+1976,6,176,CIN,Orlando Nelson,TE,"",Utah St.
+1976,6,177,SFO,Scott Bull,QB,23,Arkansas
+1976,6,178,SDG,Calvin Lane,DB,"",Fresno St.
+1976,6,179,WAS,Tommy Marvaso,DB,22,Cincinnati
+1976,6,180,MIN,Terry Egerdahl,DB,"",Minnesota-Duluth
+1976,6,181,DAL,Greg McGuire,T,"",Indiana
+1976,6,182,PIT,Jack Deloplaine,RB,22,Salem
+1976,7,183,TAM,Parnell Dickinson,QB,23,Miss. Valley St.
+1976,7,184,SEA,Lodie Dixon,DT,"",Arkansas St.
+1976,7,185,MIA,Joe Ingersoll,G,"",UNLV
+1976,7,186,DAL,Greg Schaum,DE,22,Michigan St.
+1976,7,187,CIN,Bob Bateman,QB,"",Brown
+1976,7,188,NYJ,Abdul Salaam,DT,23,Kent St.
+1976,7,189,CLE,Steve Cassidy,DT,"",LSU
+1976,7,190,CHI,Jerry Muckensturm,LB,22,Arkansas St.
+1976,7,191,PHI,Carl Hairston,DE,23,Md-Eastern Shore
+1976,7,192,CIN,Pete Rome,DB,"",Miami (OH)
+1976,7,193,ATL,Karl Farmer,WR,22,Pittsburgh
+1976,7,194,SFO,Jay Chesley,DB,"",Vanderbilt
+1976,7,195,BUF,Jackie Williams,DB,"",Texas A&M
+1976,7,196,KAN,Rod Wellington,RB,"",Iowa
+1976,7,197,HOU,Larry Harris,DT,"",Oklahoma St.
+1976,7,198,DET,Garth Ten Napel,LB,22,Texas A&M
+1976,7,199,NYJ,James Richards,RB,"",Florida
+1976,7,200,MIA,John Owens,DE,"",Tennessee St.
+1976,7,201,NOR,Ed Bauer,G,"",Notre Dame
+1976,7,202,NWE,Perry Brooks,DT,21,Saginaw Valley St.
+1976,7,203,STL,Phil Rogers,RB,"",Virginia Tech
+1976,7,204,OAK,Clarence Chapman,DB,22,East. Michigan
+1976,7,205,CIN,Ken Kuhn,LB,"",Ohio St.
+1976,7,206,MIN,Larry Brune,DB,23,Rice
+1976,7,207,RAM,Larry Buie,DB,"",Mississippi St.
+1976,7,208,DAL,Dave Williams,RB,22,Colorado
+1976,7,209,PIT,Barry Burton,TE,"",Vanderbilt
+1976,8,210,SEA,Larry Shipp,WR,"",LSU
+1976,8,211,NYJ,Joe Davis,G,"",USC
+1976,8,212,SDG,Tony DiRienzo,K,"",Oklahoma
+1976,8,213,NOR,Craig Cassady,DB,22,Ohio St.
+1976,8,214,NYJ,Louie Giammona,RB,23,Utah St.
+1976,8,215,BUF,Scott Gardner,QB,"",Virginia
+1976,8,216,PHI,Richard La Fargue,C,"",Arkansas
+1976,8,217,DET,Rich Sorenson,K,"",Cal State-Chico
+1976,8,218,GNB,Jim Burrow,DB,22,Nebraska
+1976,8,219,ATL,Frank Reed,DB,22,Washington
+1976,8,220,OAK,Jerome Dove,DB,22,Colorado St.
+1976,8,221,NYG,John Jordan,DT,"",Indiana
+1976,8,222,KAN,Orrin Olsen,C,23,BYU
+1976,8,223,SFO,John Ayers,G,23,West Texas A&M
+1976,8,224,DEN,James Betterson,RB,22,North Carolina
+1976,8,225,DET,Charles Braswell,DB,"",West Virginia
+1976,8,226,BUF,Bobby Joe Easter,RB,"",Middle Tenn. St.
+1976,8,227,BUF,Art Meadowcroft,G,"",Minnesota
+1976,8,228,BAL,Ricky Thompson,WR,22,Baylor
+1976,8,229,HOU,Bobby Simon,T,"",Grambling St.
+1976,8,230,MIA,Bob Simpson,DE,22,Colorado
+1976,8,231,OAK,Terry Kunz,RB,23,Colorado
+1976,8,232,CIN,Ron Hunt,T,21,Oregon
+1976,8,233,STL,Randy Burks,WR,23,Oklahoma St.
+1976,8,234,WAS,Brian Fryer,WR,23,University of Alberta
+1976,8,235,NWE,Stu Betts,RB,"",Northern Michigan
+1976,8,236,DAL,Henry Laws,DB,"",South Carolina
+1976,8,237,PIT,Ed McAleney,DE,22,Massachusetts
+1976,9,238,TAM,Bruce Welch,G,"",Texas A&M
+1976,9,239,SEA,Bob Bos,T,"",Iowa St.
+1976,9,240,NOR,Warren Peiffer,DT,"",Iowa
+1976,9,241,BUF,Jeff Turner,LB,"",Kansas
+1976,9,242,CLE,James Reed,RB,"",Mississippi
+1976,9,243,NWE,Doug Beaudoin,DB,22,Minnesota
+1976,9,244,NYJ,Ronnie Moore,WR,"",VMI
+1976,9,245,GNB,Jim Gueno,LB,22,Tulane
+1976,9,246,ATL,Phil McKinnely,T,22,UCLA
+1976,9,247,PHI,Mike Hogan,RB,21,Tenn-Chattanooga
+1976,9,248,PHI,Richard Osborne,TE,22,Texas A&M
+1976,9,249,KAN,Tim Collier,DB,22,Texas A&M-Commerce
+1976,9,250,SFO,Kenny Harrison,WR,22,SMU
+1976,9,251,SDG,Glynn Harrison,RB,22,Georgia
+1976,9,252,DEN,Jim Czirr,C,"",Michigan
+1976,9,253,DET,Leanell Jones,TE,"",Long Beach St.
+1976,9,254,WAS,Curtis Akins,G,"",Hawaii
+1976,9,255,BUF,Bob Kotzur,DT,"",Texas St.
+1976,9,256,HOU,Art Stringer,LB,22,Ball St.
+1976,9,257,MIA,Norris Thomas,DB,22,Southern Miss
+1976,9,258,BAL,Stu Levenick,T,"",Illinois
+1976,9,259,CIN,Lonnie Allgood,WR,"",Syracuse
+1976,9,260,DEN,Jim Lisko,LB,"",Arkansas St.
+1976,9,261,CLE,Craig Nagel,QB,"",Purdue
+1976,9,262,MIN,Isaac Hagins,WR,22,Saginaw Valley St.
+1976,9,263,RAM,Geb Church,DB,"",Stanford
+1976,9,264,DAL,Beasley Reece,DB,22,North Texas
+1976,9,265,PIT,Wentford Gaines,DB,23,Cincinnati
+1976,10,266,SEA,Randy Coffield,LB,22,Florida St.
+1976,10,267,TAM,Sid Smith,LB,"",BYU
+1976,10,268,SDG,Jeff Perlinger,DE,"",Michigan
+1976,10,269,NOR,Junior Hardin,LB,"",East. Kentucky
+1976,10,270,NWE,Ricky Feacher,WR,22,Miss. Valley St.
+1976,10,271,CLE,Doug Kleber,T,"",Illinois
+1976,10,272,WAS,Paul Strohmeier,LB,"",Washington
+1976,10,273,PHI,Herb Lusk,RB,23,Long Beach St.
+1976,10,274,GNB,Jessie Green,WR,22,Tulsa
+1976,10,275,SFO,Robin Ross,T,"",Washington St.
+1976,10,276,NYG,John Thomas,RB,"",Valley City
+1976,10,277,KAN,Whitney Paul,LB,22,Colorado
+1976,10,278,DEN,Art Gilliam,DE,"",Grambling St.
+1976,10,279,DET,Bill Bowerman,QB,"",New Mexico St.
+1976,10,280,BUF,Keith Moody,DB,23,Syracuse
+1976,10,281,MIA,Gary Fencik,DB,22,Yale
+1976,10,282,MIA,Don Testerman,RB,23,Clemson
+1976,10,283,BAL,Tim Baylor,DB,22,Morgan St.
+1976,10,284,HOU,Steve Kincannon,QB,"",Humboldt St.
+1976,10,285,STL,Randy Walker,RB,"",Bethune-Cookman
+1976,10,286,OAK,Dwight Lewis,DB,"",Purdue
+1976,10,287,CIN,Tom Klaban,K,"",Ohio St.
+1976,10,288,RAM,Freeman Johns,WR,22,SMU
+1976,10,289,MIN,Bill Salmon,QB,"",Northern Iowa
+1976,10,290,DAL,Leroy Cook,DE,"",Alabama
+1976,10,291,PIT,Gary Campbell,LB,24,Colorado
+1976,11,292,TAM,Melvin Washington,DB,"",Colorado St.
+1976,11,293,SEA,Keith Muehr,P,"",Louisiana
+1976,11,294,NOR,Greg Kokal,QB,"",Kent St.
+1976,11,295,SDG,Ray Preston,LB,22,Syracuse
+1976,11,296,NYJ,Lawrence Pillers,DE,23,Alcorn St.
+1976,11,297,CLE,Doug Celek,DE,"",Kent St.
+1976,11,298,NWE,Donnie Thomas,LB,23,Indiana
+1976,11,299,CHI,Norm Andersen,WR,"",UCLA
+1976,11,300,PHI,Mike Gilbert,DT,"",San Diego St.
+1976,11,301,GNB,Curtis Leak,WR,"",Johnson C. Smith
+1976,11,302,ATL,Chuck Brislin,T,"",Mississippi St.
+1976,11,303,NYG,Craig Brantley,WR,"",Clemson
+1976,11,304,KAN,Bob Squires,TE,"",Hastings
+1976,11,305,SFO,Paul Hofer,RB,24,Mississippi
+1976,11,306,DEN,Greg Pittman,LB,"",Iowa St.
+1976,11,307,DET,Gary Shugrue,DE,"",Villanova
+1976,11,308,WAS,Dean Gissler,DE,"",Nebraska
+1976,11,309,BUF,Forry Smith,WR,"",Iowa St.
+1976,11,310,BAL,Rick Gibney,DT,"",Georgia Tech
+1976,11,311,HOU,Skip Walker,RB,"",Texas A&M
+1976,11,312,MIA,Dexter Pride,RB,"",Minnesota
+1976,11,313,OAK,Rick Jennings,RB,23,Maryland
+1976,11,314,CIN,Melvin Morgan,DB,23,Miss. Valley St.
+1976,11,315,STL,Marty Akins,DB,"",Texas
+1976,11,316,RAM,Brian Nemeth,TE,"",South Carolina
+1976,11,317,DAL,Cornelius Greene,QB,"",Ohio St.
+1976,11,318,MIN,Steve Kracher,RB,"",Montana St.
+1976,11,319,PIT,Rolland Fuchs,RB,"",Arkansas
+1976,12,320,SEA,Ronnie Barnett,WR,"",Texas-Arlington
+1976,12,321,TAM,George Ragsdale,RB,23,North Carolina A&T
+1976,12,322,SDG,Ron Lee,DB,"",Oregon
+1976,12,323,NOR,Milton Butts,T,"",North Carolina
+1976,12,324,HOU,Larry Bell,DT,"",Texas A&M-Commerce
+1976,12,325,NWE,Nathaniel Bell,DT,"",Tulane
+1976,12,326,NYJ,Don Buckey,WR,22,North Carolina St.
+1976,12,327,NYJ,Dave Buckey,QB,"",North Carolina St.
+1976,12,328,GNB,Melvin Jackson,G,22,USC
+1976,12,329,ATL,Pat Bolton,K,"",Montana St.
+1976,12,330,CHI,John O'Leary,RB,"",Nebraska
+1976,12,331,KAN,Harold Porter,WR,"",Louisiana
+1976,12,332,SFO,Gerald Loper,G,"",Florida
+1976,12,333,NYG,Jerry Golsteyn,QB,22,Northern Illinois
+1976,12,334,DEN,Randy Moore,DT,22,Arizona St.
+1976,12,335,DET,Mike McCabe,C,"",South Carolina
+1976,12,336,BUF,Joe Lowery,RB,"",Jackson St.
+1976,12,337,SDG,Herman Harris,DB,"",Miss. Valley St.
+1976,12,338,MIA,Randy Young,T,22,Iowa St.
+1976,12,339,BAL,Frank Stavroff,K,"",Indiana
+1976,12,340,CIN,Joe Dale Harris,WR,"",Alabama
+1976,12,341,MIA,Darryl Brandford,DT,"",Northwestern
+1976,12,342,WAS,Walter Tullis,WR,23,Delaware St.
+1976,12,343,OAK,Cedric Brown,DB,22,Kent St.
+1976,12,344,RAM,Jim Jodat,RB,22,Carthage
+1976,12,345,MIN,Robert Sparks,DB,"",San Francisco St.
+1976,12,346,DAL,Charles McShane,LB,22,California Lutheran
+1976,12,347,PIT,Bill Carroll,WR,"",Texas A&M-Commerce
+1976,13,348,TAM,Brad Jenkins,TE,"",Nebraska
+1976,13,349,SEA,Andy Reid,RB,22,Georgia
+1976,13,350,NOR,Kenny Downing,DB,"",Missouri
+1976,13,351,SDG,John Lee,DE,23,Nebraska
+1976,13,352,NWE,James Jones,DB,"",Central Michigan
+1976,13,353,PHI,Terry Tautolo,LB,22,UCLA
+1976,13,354,CLE,Brian Murray,T,"",Arizona
+1976,13,355,GNB,Bradley Bowman,DB,"",Southern Miss
+1976,13,356,ATL,Mike Williams,T,"",Florida
+1976,13,357,CHI,Dale Kasowski,RB,"",North Dakota
+1976,13,358,PHI,Steve Ebbecke,DB,"",Villanova
+1976,13,359,SFO,Larry Brumfield,DB,"",Indiana St.
+1976,13,360,NYG,Rick Caswell,KR,"",Western Kentucky
+1976,13,361,KAN,Joe Bruner,QB,"",La-Monroe
+1976,13,362,DEN,Donnie McGraw,RB,"",Houston
+1976,13,363,DET,Mel Jacobs,WR,"",San Diego St.
+1976,13,364,WAS,Waymon Britt,DB,"",Michigan
+1976,13,365,BUF,Will Wilcox,G,"",Texas
+1976,13,366,MIA,Bernie Head,C,"",Tulsa
+1976,13,367,OAK,Craig Crnick,DE,"",Idaho
+1976,13,368,HOU,Dan O'Rourke,WR,"",Colorado
+1976,13,369,STL,Greg Brewton,DT,"",Michigan St.
+1976,13,370,OAK,Mark Young,T,"",Washington St.
+1976,13,371,CIN,Randy Walker,RB,"",Miami (OH)
+1976,13,372,MIN,Gary Paulson,DE,"",Colorado St.
+1976,13,373,RAM,Steve Hamilton,QB,"",Emporia St.
+1976,13,374,DAL,Mark Driscoll,QB,"",Colorado St.
+1976,13,375,PIT,Larry Kain,TE,"",Ohio St.
+1976,14,376,SEA,Jarvis Blinks,DB,"",""
+1976,14,377,TAM,Carl Roaches,WR,22,Texas A&M
+1976,14,378,SDG,Ed Jones,G,"",Cincinnati
+1976,14,379,NOR,Rich Hucke,DE,"",West. Montana
+1976,14,380,NYJ,Al Gluchoski,C,"",West Virginia
+1976,14,381,CLE,Joe Smalzer,TE,"",Illinois
+1976,14,382,NWE,Dave Quehl,WR,"",Holy Cross
+1976,14,383,ATL,Mark Husfloen,DE,"",Washington St.
+1976,14,384,CHI,Ron Cuie,RB,"",Oregon St.
+1976,14,385,PHI,Melvin Shy,DB,"",Tennessee St.
+1976,14,386,GNB,John Henson,RB,"",Cal Poly-San Luis Obispo
+1976,14,387,NYG,Jerry Mullane,LB,"",Lehigh
+1976,14,388,KAN,Rick Thurman,T,"",Texas
+1976,14,389,SFO,Johnny Miller,G,22,Livingstone
+1976,14,390,DEN,Larry Evans,LB,23,Mississippi Col.
+1976,14,391,DET,Leonard Elston,WR,"",Kentucky St.
+1976,14,392,BUF,Tony Williams,WR,"",Middle Tenn. St.
+1976,14,393,WAS,Quinn Buckner,DB,"",Indiana
+1976,14,394,BAL,Jeremiah Cummings,DE,"",Albany St.
+1976,14,395,HOU,John Reimer,T,"",Wisconsin
+1976,14,396,MIA,Bob Gissler,LB,"",South Dakota St.
+1976,14,397,OAK,Calvin Young,RB,"",Fresno St.
+1976,14,398,CIN,Greg Coleman,P,21,Florida A&M
+1976,14,399,STL,Raymond Crosier,DE,"",Abilene Christian
+1976,14,400,RAM,Al Burleson,DB,"",Washington
+1976,14,401,MIN,Jeff Stapleton,T,"",Purdue
+1976,14,402,DAL,Larry Mushinskie,TE,"",Nebraska
+1976,14,403,PIT,Wayne Fields,DB,"",Florida
+1976,15,404,TAM,Bob Dzierzak,DT,"",Utah St.
+1976,15,405,SEA,Dan Smith,T,"",Washington St.
+1976,15,406,NOR,Steve Seminoff,DT,"",Wichita St.
+1976,15,407,SDG,Jack Hoffman,DT,"",Indiana
+1976,15,408,CLE,Luther Philyaw,DB,"",Loyola Marymount
+1976,15,409,NWE,Bernard Coleman,WR,"",Bethune-Cookman
+1976,15,410,NYJ,Rick Faulk,P,"",San Francisco St.
+1976,15,411,CHI,Jerry Meyers,DE,22,Northern Illinois
+1976,15,412,PHI,Brett White,P,"",UCLA
+1976,15,413,GNB,Jerry Dandridge,LB,"",Memphis
+1976,15,414,ATL,Ron Olson,DB,"",Washington
+1976,15,415,KAN,Dave Rozumek,LB,22,New Hampshire
+1976,15,416,SFO,Howard Stidham,LB,21,Tennessee Tech
+1976,15,417,NYG,Eddie Morgan,DT,"",Arkansas St.
+1976,15,418,DEN,Wilbur Summers,P,22,Louisville
+1976,15,419,DET,Trent Smock,WR,"",Indiana
+1976,15,420,STL,Lee Nelson,DB,22,Florida St.
+1976,15,421,BUF,Arnold Robinson,LB,"",Bethune-Cookman
+1976,15,422,HOU,Bobby Byars,DB,"",Cheyney
+1976,15,423,MIA,Ron Holmes,RB,"",Utah St.
+1976,15,424,BAL,Gary Alexander,T,"",Clemson
+1976,15,425,CIN,Lynn Hieber,QB,"",""
+1976,15,426,WAS,John Monroe,RB,"",Bluefield
+1976,15,427,OAK,Carl Hargrave,DB,"",Upper Iowa
+1976,15,428,MIN,Ron Groce,RB,22,Macalester
+1976,15,429,RAM,Malcolm Campbell,WR,"",Los Angeles St.
+1976,15,430,DAL,Dale Curry,LB,"",UCLA
+1976,15,431,PIT,Mel Davis,DE,"",North Texas
+1976,16,432,SEA,Jeff Urczyk,G,"",Georgia Tech
+1976,16,433,TAM,Tommy West,LB,"",Tennessee
+1976,16,434,SDG,Jack Harrison,G,"",California
+1976,16,435,NOR,Gene Jones,T,"",Bowling Green
+1976,16,436,NWE,Clifford Brown,DT,"",Tuskegee
+1976,16,437,NYJ,James Godwin,RB,"",Fayetteville St.
+1976,16,438,CLE,Chris Lorenzen,DT,"",Arizona St.
+1976,16,439,PHI,Steve Campassi,RB,"",Kentucky
+1976,16,440,GNB,Mike Timmermans,G,"",Northern Iowa
+1976,16,441,ATL,Pat Curto,LB,"",Ohio St.
+1976,16,442,CHI,Ronald Parker,TE,"",TCU
+1976,16,443,SFO,Reggie Lewis,DE,22,San Diego St.
+1976,16,444,NYG,Dave Lawson,K,"",Air Force
+1976,16,445,KAN,Dennis Anderson,DB,"",Arizona
+1976,16,446,DEN,John Huddleston,LB,22,Utah
+1976,16,447,DET,Craig McCurdy,LB,"",William & Mary
+1976,16,448,BUF,Gary Gorrell,LB,"",Boise St.
+1976,16,449,BAL,Mike Fuhrman,TE,"",Memphis
+1976,16,450,MIA,Mike Green,K,"",Ohio
+1976,16,451,BAL,Steve Ludwig,C,"",Miami (FL)
+1976,16,452,HOU,Claude Johnson,LB,"",Florida A&M
+1976,16,453,STL,Cecil Beaird,WR,"",Fisk
+1976,16,454,OAK,Doug Hogan,DB,"",USC
+1976,16,455,CIN,George Demopoulos,C,"",Miami (FL)
+1976,16,456,RAM,Rick Gage,WR,"",Arkansas Tech
+1976,16,457,MIN,Randy Hickel,DB,"",Montana St.
+1976,16,458,DAL,Rick Costanzo,T,"",Nebraska
+1976,16,459,PIT,Randy Butts,RB,"",Nebraska-Kearney
+1976,17,460,TAM,Jack Berry,QB,"",Washington & Lee
+1976,17,461,SEA,Chris Rowland,QB,"",Washington
+1976,17,462,NOR,Scott MacDonald,TE,"",West Virginia
+1976,17,463,SDG,Clarence Sanders,LB,23,Cincinnati
+1976,17,464,CLE,Tom Fleming,WR,"",Dartmouth
+1976,17,465,NWE,Todd Anderson,C,"",Stanford
+1976,17,466,NYJ,Darwin Willie,TE,"",Tulane
+1976,17,467,GNB,Ray Hall,TE,"",Cal Poly-San Luis Obispo
+1976,17,468,ATL,Tony Green,DB,"",Texas Tech
+1976,17,469,CHI,Mike Malham,LB,"",Arkansas St.
+1976,17,470,PHI,Anthony Terry,DB,"",California-Davis
+1976,17,471,NYG,Steve Curnutte,DB,"",Vanderbilt
+1976,17,472,KAN,Pat McNeil,RB,22,Baylor
+1976,17,473,SFO,Darryl Jenkins,RB,"",San Jose St.
+1976,17,474,DEN,Randy Cozens,DE,"",Pittsburgh
+1976,17,475,DET,Jim Meeks,DB,"",Boise St.
+1976,17,476,WAS,Chuck Wills,DB,"",Oregon
+1976,17,477,BUF,Bob Berg,K,"",New Mexico
+1976,17,478,OAK,Buddy Tate,DB,"",Tulsa
+1976,17,479,HOU,Allen Misher,WR,"",LSU
+1976,17,480,MIA,Jeff Grantz,QB,"",South Carolina
+1976,17,481,OAK,Nate Beasley,RB,"",Delaware
+1976,17,482,CIN,Scott Dannelley,G,"",Ohio St.
+1976,17,483,STL,Dan Myers,DB,"",Georgia Tech
+1976,17,484,MIN,Rich Lukowski,DT,"",West Virginia
+1976,17,485,RAM,Gary Shaw,DB,"",BYU
+1976,17,486,DAL,Stan Woodfill,K,"",Oregon
+1976,17,487,PIT,Kelvin Kirk,WR,"",Dayton
