@@ -11,7 +11,7 @@ def draft_class_scraper(start_year)
 		url = "https://www.pro-football-reference.com/years/#{@year}/draft.htm"
 
 		draft_class_parser(open(url))
-		puts "#{@year} complete"
+		puts "********#{@year} COMPLETE********"
 		@year += 1
 	end
 
@@ -32,10 +32,10 @@ def draft_class_parser(html)
 
 	table.each do |tr|
 		
-		if tr.children[0].text == "\n         "  && drafted_players.count == 0
+		if tr.children[0].text == "\n         "  && drafted_players.count == 0 && @year <= 1993 # 1994 hasa slightly different table format
 
                 	drafted_players.push(
-                	year: "year",
+                	year: "Year",
 			round: tr.children[1].text,
                 	pick: tr.children[3].text,
                		team: tr.children[5].text,
@@ -47,7 +47,7 @@ def draft_class_parser(html)
 
                 	puts drafted_players
 
-		elsif tr.children[0].text != "\n         "
+		elsif tr.children[0].text != "\n         " && @year <= 1993 # 1994 has a slightly different table format
 
 	                drafted_players.push(
 	                year: @year,
@@ -61,7 +61,37 @@ def draft_class_parser(html)
 	                )
 
 	                puts drafted_players
-        	end
+        	
+		elsif tr.children[0].text == "\n         "  && drafted_players.count == 0 # should kick in for 1994 and beyond
+
+                        drafted_players.push(
+                        year: "Year",
+                        round: tr.children[1].text,
+                        pick: tr.children[3].text,
+                        team: tr.children[5].text,
+                        player_name: tr.children[7].text,
+                        position: tr.children[9].text,
+                        age: tr.children[11].text,
+                        college: tr.children[55]
+                        )
+
+		elsif tr.children[0].text != "\n         "
+
+			drafted_players.push(
+                        year: @year,
+                        round: tr.children[0].text,
+                        pick:  tr.children[1].text,
+                        team: tr.children[2].text,
+                        player_name: tr.children[3].text,
+                        position: tr.children[4].text,
+                        age: tr.children[5].text,
+                        college: tr.children[27].text
+                        )
+
+                        puts drafted_players
+
+		end
+
         	puts drafted_players
 
 	end

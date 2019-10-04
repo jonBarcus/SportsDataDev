@@ -36,7 +36,7 @@ table.each do |tr|
 		puts drafted_players
 	#elsif tr.content[0] != "\n" && drafted_players[0] == "Rnd"
 	#elsif drafted_players[0] == "Rnd" && tr.children[0].text != "\n         "
-	elsif tr.children[0].text != "\n         "
+	elsif tr.children[0].text != "\n         " && 
 
 		drafted_players.push(
 		round: tr.children[0].text,
