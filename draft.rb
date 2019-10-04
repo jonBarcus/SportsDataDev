@@ -3,6 +3,7 @@ require 'nokogiri'
 require 'pry'
 require 'json'
 require 'csv'
+load 'get_scope.rb'
 
 url = 'https://www.pro-football-reference.com/years/1936/draft.htm'
 html = open(url)
