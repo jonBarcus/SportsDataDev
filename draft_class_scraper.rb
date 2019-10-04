@@ -35,7 +35,7 @@ def draft_class_parser(html)
 		if tr.children[0].text == "\n         "  && drafted_players.count == 0
 
                 	drafted_players.push(
-                	year: @year,
+                	year: "year",
 			round: tr.children[1].text,
                 	pick: tr.children[3].text,
                		team: tr.children[5].text,
