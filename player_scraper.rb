@@ -3,12 +3,13 @@ require 'nokogiri'
 require 'csv'
 require 'pry'
 
-url = "https://pro-football-reference.com/players/B/BledDr00.htm"
+#url = "https://pro-football-reference.com/players/B/BledDr00.htm"
+url = "https://pro-football-reference.com/players/J/JohnBe21.htm"
 html = open(url)
 
 
 doc = Nokogiri::HTML.parse(html)
-
+binding.pry
 # player info from top of page
 playerInfoRaw = doc.at('#info').children[1].children[3]
 
