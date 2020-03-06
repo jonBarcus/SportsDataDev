@@ -2,19 +2,38 @@ require 'rspec'
 require 'nokogiri'
 require 'open-uri'
 
-module Player
+class Player
 
-	def self.get_player_info(url)
+	def initialize(url)
+
+		@doc = Nokogiri::HTML(open(url))
+	end
+
+	def self.get_player_name
 	
 		playerInfo = []
-		doc = Nokogiri::HTML(open(url))
+		#doc = Nokogiri::HTML(open(url))
 
-		doc.css('strong').each do |x|
+		@doc.css('strong').each do |x|
 			playerInfo << x.content.strip
 		end
 		
 		playerInfo[0]
 	end
+
+	def self.get_player_position
+	
+		playerInfo = []
+		
+		@doc.css('p').each do |x|
+			playerInfo << x
+			
+			positions = playerInfo[1]content.gsub(/W|(Position)/, "")
+		end
+
+		positions
+		
+		end
 
 end
 RSpec.describe Player do
@@ -26,22 +45,61 @@ RSpec.describe Player do
 		@url_josh_allen = "https://www.pro-football-reference.com/players/A/AlleJo02.htm"
 	end
 	
-	describe '#get_player_info' do
+	context 'Bert Johnson' do
 		
-		it 'returns the name "Bert Johnson"' do
-			expect(Player.get_player_info(@url_bert_johnson)).to eq("Bert Johnson")
+		before(:each) do
+		
+			Player.new(@url_bert_johnson)
+
 		end
-		it 'returns the name "Joe Namath"' do
-                        expect(Player.get_player_info(@url_joe_namath)).to eq("Joe Namath")
+
+		describe '#get_player_name' do
+		
+			it 'returns the name "Bert Johnson"' do
+				expect(Player.get_player_name(@url_bert_johnson)).to eq("Bert Johnson")
+			end
+		
+		describe '#get_player_positions' do
+			
+			it 'returns the positions "FBBBHB"' do
+				expect(bert.get_player_positions).to eq("FBBBHB")
+			end
+
+		end
+
+	end
+
+	context 'Joe Namath' do
+	
+		before(:each) do
+			
+			joe = Player.new(@url_joe_namath)
+		end
+
+		describe '#get_player_name' do
+
+			it 'returns the name "Joe Namath"' do
+                        	expect(joe.get_player_name).to eq("Joe Namath")
+                	end
+		end
+
+                describe '#get_player_positions' do
+                        
+                        it 'returns the positions "FBBBHB"' do
+                                expect(joe.get_player_positions).to eq("")
+			end
                 end
+	end
+
+
 		it 'returns the name "Lawrence Taylor"' do
-                        expect(Player.get_player_info(@url_lawrence_taylor)).to eq("Lawrence Taylor")
+                        expect(Player.get_player_name(@url_lawrence_taylor)).to eq("Lawrence Taylor")
                 end
 		it 'returns the name "Drew Bledsoe"' do
-                        expect(Player.get_player_info(@url_drew_bledsoe)).to eq("Drew Bledsoe")
+                        expect(Player.get_player_name(@url_drew_bledsoe)).to eq("Drew Bledsoe")
                 end
 		it 'returns the name "Josh Allen"' do
-                        expect(Player.get_player_info(@url_josh_allen)).to eq("Josh Allen")
+                        expect(Player.get_player_name(@url_josh_allen)).to eq("Josh Allen")
                 end
 	end
 end
