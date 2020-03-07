@@ -9,7 +9,7 @@ class Player
 		@doc = Nokogiri::HTML(open(url))
 	end
 
-	def self.get_player_name
+	def get_player_name
 	
 		playerInfo = []
 		#doc = Nokogiri::HTML(open(url))
@@ -21,15 +21,18 @@ class Player
 		playerInfo[0]
 	end
 
-	def self.get_player_position
+	def get_player_positions
 	
 		playerInfo = []
-		
+
 		@doc.css('p').each do |x|
+
 			playerInfo << x
-			
-			positions = playerInfo[1].content.gsub(/W|(Position)/, "")
+		
 		end
+
+		positions = playerInfo[1].content.gsub(/\W|(Position)/, "")
+
 
 		positions
 		
@@ -50,20 +53,21 @@ RSpec.describe Player do
 		
 		before(:each) do
 		
-			Player.new(@url_bert_johnson)
+			@bert = Player.new(@url_bert_johnson)
 
 		end
 
 		describe '#get_player_name' do
 		
 			it 'returns the name "Bert Johnson"' do
-				expect(Player.get_player_name(@url_bert_johnson)).to eq("Bert Johnson")
+				expect(@bert.get_player_name).to eq("Bert Johnson")
 			end
-		
+		end
+
 		describe '#get_player_positions' do
 			
 			it 'returns the positions "FBBBHB"' do
-				expect(bert.get_player_positions).to eq("FBBBHB")
+				expect(@bert.get_player_positions).to eq("FBBBHB")
 			end
 
 		end
@@ -74,20 +78,20 @@ RSpec.describe Player do
 	
 		before(:each) do
 			
-			joe = Player.new(@url_joe_namath)
+			@joe = Player.new(@url_joe_namath)
 		end
 
 		describe '#get_player_name' do
 
 			it 'returns the name "Joe Namath"' do
-                        	expect(joe.get_player_name).to eq("Joe Namath")
+                        	expect(@joe.get_player_name).to eq("Joe Namath")
                 	end
 		end
 
                 describe '#get_player_positions' do
                         
                         it 'returns the positions "QB"' do
-                                expect(joe.get_player_positions).to eq("QB")
+                                expect(@joe.get_player_positions).to eq("QB")
 			end
                 end
 	end
@@ -96,20 +100,20 @@ RSpec.describe Player do
 
                 before(:each) do
 
-                        lt = Player.new(@url_lawrence_taylor)
+                        @lt = Player.new(@url_lawrence_taylor)
                 end
 
                 describe '#get_player_name' do
 
                         it 'returns the name "Lawrence Taylor"' do
-                                expect(lt.get_player_name).to eq("Lawrence Taylor")
+                                expect(@lt.get_player_name).to eq("Lawrence Taylor")
                         end
                 end
 
                 describe '#get_player_positions' do
 
                         it 'returns the positions "LB"' do
-                                expect(lt.get_player_positions).to eq("LB")
+                                expect(@lt.get_player_positions).to eq("LB")
                         end
                 end
         end
@@ -119,20 +123,20 @@ RSpec.describe Player do
 
                 before(:each) do
 
-                        drew = Player.new(@url_drew_bledsoe)
+                        @drew = Player.new(@url_drew_bledsoe)
                 end
 
                 describe '#get_player_name' do
 
                         it 'returns the name "Drew Bledsoe"' do
-                                expect(drew.get_player_name).to eq("Drew Bledsoe")
+                                expect(@drew.get_player_name).to eq("Drew Bledsoe")
                         end
                 end
 
                 describe '#get_player_positions' do
 
                         it 'returns the positions "QB"' do
-                                expect(drew.get_player_positions).to eq("QB")
+                                expect(@drew.get_player_positions).to eq("QB")
                         end
                 end
         end
@@ -141,20 +145,20 @@ RSpec.describe Player do
 
                 before(:each) do
 
-                        josh = Player.new(@url_josh_allen)
+                        @josh = Player.new(@url_josh_allen)
                 end
 
                 describe '#get_player_name' do
 
                         it 'returns the name "Josh Allen"' do
-                                expect(josh.get_player_name).to eq("Josh Allen")
+                                expect(@josh.get_player_name).to eq("Josh Allen")
                         end
                 end
 
                 describe '#get_player_positions' do
 
                         it 'returns the positions "QB"' do
-                                expect(josh.get_player_positions).to eq("QB")
+                                expect(@josh.get_player_positions).to eq("QB")
                         end
                 end
         end
