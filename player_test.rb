@@ -28,14 +28,15 @@ class Player
 		@doc.css('p').each do |x|
 			playerInfo << x
 			
-			positions = playerInfo[1]content.gsub(/W|(Position)/, "")
+			positions = playerInfo[1].content.gsub(/W|(Position)/, "")
 		end
 
 		positions
 		
-		end
+	end
 
 end
+
 RSpec.describe Player do
 	before(:all) do
 		@url_bert_johnson = "https://pro-football-reference.com/players/J/JohnBe21.htm"
@@ -85,22 +86,78 @@ RSpec.describe Player do
 
                 describe '#get_player_positions' do
                         
-                        it 'returns the positions "FBBBHB"' do
-                                expect(joe.get_player_positions).to eq("")
+                        it 'returns the positions "QB"' do
+                                expect(joe.get_player_positions).to eq("QB")
 			end
                 end
 	end
 
+	context 'Lawrence Taylor' do
 
-		it 'returns the name "Lawrence Taylor"' do
-                        expect(Player.get_player_name(@url_lawrence_taylor)).to eq("Lawrence Taylor")
+                before(:each) do
+
+                        lt = Player.new(@url_lawrence_taylor)
                 end
-		it 'returns the name "Drew Bledsoe"' do
-                        expect(Player.get_player_name(@url_drew_bledsoe)).to eq("Drew Bledsoe")
+
+                describe '#get_player_name' do
+
+                        it 'returns the name "Lawrence Taylor"' do
+                                expect(lt.get_player_name).to eq("Lawrence Taylor")
+                        end
                 end
-		it 'returns the name "Josh Allen"' do
-                        expect(Player.get_player_name(@url_josh_allen)).to eq("Josh Allen")
+
+                describe '#get_player_positions' do
+
+                        it 'returns the positions "LB"' do
+                                expect(lt.get_player_positions).to eq("LB")
+                        end
                 end
-	end
+        end
+
+
+	context 'Drew Bledsoe' do
+
+                before(:each) do
+
+                        drew = Player.new(@url_drew_bledsoe)
+                end
+
+                describe '#get_player_name' do
+
+                        it 'returns the name "Drew Bledsoe"' do
+                                expect(drew.get_player_name).to eq("Drew Bledsoe")
+                        end
+                end
+
+                describe '#get_player_positions' do
+
+                        it 'returns the positions "QB"' do
+                                expect(drew.get_player_positions).to eq("QB")
+                        end
+                end
+        end
+
+	context 'Josh Allen' do
+
+                before(:each) do
+
+                        josh = Player.new(@url_josh_allen)
+                end
+
+                describe '#get_player_name' do
+
+                        it 'returns the name "Josh Allen"' do
+                                expect(josh.get_player_name).to eq("Josh Allen")
+                        end
+                end
+
+                describe '#get_player_positions' do
+
+                        it 'returns the positions "QB"' do
+                                expect(josh.get_player_positions).to eq("QB")
+                        end
+                end
+        end
+
 end
 
