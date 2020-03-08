@@ -82,6 +82,12 @@ class Player
 		$playerWeight
 	end
 
+	def get_player_dob
+		# Josh Allen DOB located at $playerDetails[4]
+		# TODO need to figure out first year that DOB template changes
+		$playerDOB = $playerDetails[3].children[3].attributes["data-birth"].value
+	end
+
 end
 
 RSpec.describe Player do
@@ -130,7 +136,13 @@ RSpec.describe Player do
 				expect(@bert.get_player_weight).to eq("96")
 			end
 		end
+		
+		describe '#get_player_dob' do
 
+			it 'returns the player DOB' do
+				expect(@bert.get_player_dob).to eq("1912-02-18")
+			end
+		end
 	end
 
 	context 'Joe Namath' do
@@ -174,6 +186,13 @@ RSpec.describe Player do
 				expect(@joe.get_player_weight).to eq("90")
 			end
 		end
+
+		describe '#get_player_dob' do
+	
+			it 'returns the player DOB' do
+				expect(@joe.get_player_dob).to eq("1943-05-31")
+			end
+		end
 	end
 
 	context 'Lawrence Taylor' do
@@ -208,6 +227,13 @@ RSpec.describe Player do
 	
 			it 'returns the correct weights of "107" in kg' do
 				expect(@lt.get_player_weight).to eq("107")
+			end
+		end
+
+		describe '#get_player_dob' do
+
+			it 'returns the player DOB' do
+				expect(@lt.get_player_dob).to eq("1959-02-04")
 			end
 		end
         end
@@ -249,8 +275,16 @@ RSpec.describe Player do
 		end
 
 		describe '#get_player_weight' do
+		
 			it 'returns the correct weight of "107" in kg' do
 				expect(@drew.get_player_weight).to eq("107")
+			end
+		end
+
+		describe '#get_player_dob' do
+
+			it 'returns the player DOB' do
+				expect(@drew.get_player_dob).to eq("1972-02-14")
 			end
 		end
         end
@@ -296,6 +330,13 @@ RSpec.describe Player do
 				expect(@josh.get_player_weight).to eq("107")
 			end
 		end
+
+		describe '#get_player_dob' do
+
+			it 'returns the players DOB' do
+				expect(@josh.get_player_dob).to eq("1996-05-21")
+			end
+		end
 	end
 
 
@@ -338,6 +379,13 @@ RSpec.describe Player do
 			
 			it 'returns the correct weight of "107" in kg' do
 				expect(@tebow.get_player_weight).to eq("107")
+			end
+		end
+
+		describe '#get_player_dob' do
+
+			it 'returns the player DOB' do
+				expect(@tebow.get_player_dob).to eq("1987-08-14")
 			end
 		end
       end
