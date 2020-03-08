@@ -7,10 +7,10 @@ class Player
 	def initialize(url)
 
 		@doc = Nokogiri::HTML(open(url))
+
 	end
 
 	def get_player_name
-	
 		playerInfo = []
 		#doc = Nokogiri::HTML(open(url))
 
@@ -30,23 +30,36 @@ class Player
 			playerInfo << x
 		
 		end
-
+		
+		# takes the whitespace and non-position abbrevs &
+		# other non-QB related info out
 		positions = playerInfo[1].content.gsub(/\W|(Position)/, "")
-
-		throws = positions.scan(/(?:Left|Right)/)
-
-		if postions == "QB" && throws[0] != nil
 		
-			throws[0]
-			
-			positions
+		# creates array via the Ruby .scan grabbing the Left
+		# and/or Right throwing arms
+		$throws = positions.scan(/(?:Left|Right)/)
 
-		else
+		positions = positions.gsub(/(Throws|Left|Right)/, "")
+		#if positions == "QB" && throws[0] != nil
+		#
+		#	throws[0]
+		#	
+		#	positions
 
-			positions
-
-		end
+		#else
+		#
+		#	positions
+		#
+		#end
+		positions
 		
+	end
+
+	def get_throwing_arm
+
+		throwing_arm = $throws[0]
+
+		throwing_arm
 	end
 
 end
@@ -57,6 +70,7 @@ RSpec.describe Player do
 		@url_joe_namath = "https://www.pro-football-reference.com/players/N/NamaJo00.htm"
 		@url_lawrence_taylor = "https://www.pro-football-reference.com/players/T/TaylLa00.htm"
 		@url_drew_bledsoe = "https://www.pro-football-reference.com/players/B/BledDr00.htm"
+		@url_tim_tebow = "https://www.pro-football-reference.com/players/T/TeboTi00.htm"
 		@url_josh_allen = "https://www.pro-football-reference.com/players/A/AlleJo02.htm"
 	end
 	
@@ -154,25 +168,62 @@ RSpec.describe Player do
 
 	context 'Josh Allen' do
 
-                before(:each) do
+            before(:each) do
 
-                        @josh = Player.new(@url_josh_allen)
-                end
+            	@josh = Player.new(@url_josh_allen)
+            end
 
-                describe '#get_player_name' do
+            describe '#get_player_name' do
 
-                        it 'returns the name "Josh Allen"' do
-                                expect(@josh.get_player_name).to eq("Josh Allen")
-                        end
-                end
+                 it 'returns the name "Josh Allen"' do
+                 		expect(@josh.get_player_name).to eq("Josh Allen")
+                 end
+           	end
 
-                describe '#get_player_positions' do
+            describe '#get_player_positions' do
 
-                        it 'returns the positions "QB"' do
-                                expect(@josh.get_player_positions).to eq("QB")
-                        end
-                end
-        end
+                  it 'returns the positions "QB"' do
+                        expect(@josh.get_player_positions).to eq("QB")  
+                 end
+            end
+
+		describe '#get_throwing_arm' do
+
+			it 'returns the "Right" throwing arm' do
+				expect(@josh.get_throwing_arm).to eq("Right")
+			end
+		end
+	end
+
+
+      context 'Tim Tebow' do
+
+            before(:each) do
+
+                  @tebow = Player.new(@url_tim_tebow)
+            end
+
+            describe '#get_player_name' do
+
+                 it 'returns the name "Tim Tebow"' do
+                        expect(@tebow.get_player_name).to eq("Tim Tebow")
+                 end
+            end
+
+            describe '#get_player_positions' do
+
+                  it 'returns the positions "QB"' do
+                        expect(@tebow.get_player_positions).to eq("QB")
+                 end
+            end
+
+            describe '#get_throwing_arm' do
+
+                  it 'returns the "Left" throwing arm' do
+                        expect(@tebow.get_throwing_arm).to eq("Left")
+                  end
+            end
+      end
 
 end
 
