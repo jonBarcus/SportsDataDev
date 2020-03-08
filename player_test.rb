@@ -33,8 +33,19 @@ class Player
 
 		positions = playerInfo[1].content.gsub(/\W|(Position)/, "")
 
+		throws = positions.scan(/(?:Left|Right)/)
 
-		positions
+		if postions == "QB" && throws[0] != nil
+		
+			throws[0]
+			
+			positions
+
+		else
+
+			positions
+
+		end
 		
 	end
 
