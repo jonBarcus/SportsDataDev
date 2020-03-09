@@ -1,6 +1,7 @@
 require 'rspec'
 require 'nokogiri'
 require 'open-uri'
+require 'pry'
 
 class Player
 
@@ -60,6 +61,10 @@ class Player
 		throwing_arm
 	end
 
+	# TODO create new function get_player_vitals
+	# This fuction, if not expanding to include everything it should
+	# will at least include player height and weight
+
 	def get_player_height
 		
 		$height_weight = $playerDetails[2].children[3].content
@@ -91,10 +96,22 @@ class Player
 	def get_player_birthplace
 		
 		playerBirthplace = $playerDetails[3].children[5].content
-		playerBirthCity = playerBirthplace.split(",")[0].gsub(/\W|in\b/, "")
+	#	playerBirthCity = playerBirthplace.split(",")[0].gsub(/\W|in\b/, "")
+		playerBirthCity = playerBirthplace.split(",")[0].gsub(/\W+(in)+\W|\W+$/, "")
 		playerBirthState = playerBirthplace.split(",")[1].gsub(/\W/, "")
 		# returns hash with birth City and State
 		{city: playerBirthCity, state: playerBirthState}
+	end
+
+	def get_player_school
+
+		if $playerDetails[4].content.include?("College:") == true
+			player_school = $playerDetails[4].content.gsub(/(College:)\W+\t\b|\W+$|\W+\b(College Stats)/, "")
+		else
+			player_school = $playerDetails[5].content.gsub(/(College:)\W+\t\b|\W+$/, "")
+		end
+		
+		player_school
 	end
 end
 
@@ -162,6 +179,13 @@ RSpec.describe Player do
 				expect(@bert.get_player_birthplace[:state]).to eq("KY")
 			end
 		end
+
+		describe '#get_player_birthplace' do
+
+			it 'returns "Kentucky" as school' do
+				expect(@bert.get_player_school).to eq("Kentucky")
+			end
+		end
 	end
 
 	context 'Joe Namath' do
@@ -224,6 +248,13 @@ RSpec.describe Player do
                   end
             end
 
+		describe '#get_player_school' do
+	
+			it 'returns "Alabama" as the school' do
+				expect(@joe.get_player_school).to eq("Alabama")
+			end
+		end
+
 	end
 
 	context 'Lawrence Taylor' do
@@ -278,6 +309,13 @@ RSpec.describe Player do
                         expect(@lt.get_player_birthplace[:state]).to eq("VA")
                   end
             end
+
+		describe '#get_player_school' do
+		
+			it 'returns "North Carolina" as the school' do
+				expect(@lt.get_player_school).to eq("North Carolina")
+			end
+		end
 
         end
 
@@ -342,6 +380,13 @@ RSpec.describe Player do
                   end
             end
 
+		describe '#get_player_school' do
+
+			it 'returns "Washington St" as the school' do
+				expect(@drew.get_player_school).to eq("Washington St")
+			end
+		end
+
         end
 
 	context 'Josh Allen' do
@@ -404,6 +449,13 @@ RSpec.describe Player do
                   end
             end
 
+		describe '#get_player_school' do
+
+			it 'returns "Wyoming" as the school' do
+				expect(@josh.get_player_school).to eq("Wyoming")
+			end
+		end
+
 	end
 
 
@@ -458,14 +510,21 @@ RSpec.describe Player do
 
             describe '#get_player_birthplace' do
 
-                  it 'returns "Makati" as birth City' do
-                        expect(@tebow.get_player_birthplace[:city]).to eq("Makati")
+                  it 'returns "Makati City" as birth City' do
+                        expect(@tebow.get_player_birthplace[:city]).to eq("Makati City")
                   end
 
                   it 'returns "Phillipines" as birth State' do
                         expect(@tebow.get_player_birthplace[:state]).to eq("Phillipines")
                   end
             end
+
+		describe '#get_player_school' do
+
+			it 'returns "Florida" as the school' do
+				expect(@tebow.get_player_school).to eq("Florida")
+			end
+		end
 
       end
 
