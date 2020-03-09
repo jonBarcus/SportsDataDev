@@ -88,6 +88,14 @@ class Player
 		$playerDOB = $playerDetails[3].children[3].attributes["data-birth"].value
 	end
 
+	def get_player_birthplace
+		
+		playerBirthplace = $playerDetails[3].children[5].content
+		playerBirthCity = playerBirthplace.split(",")[0].gsub(/\W|in\b/, "")
+		playerBirthState = playerBirthplace.split(",")[1].gsub(/\W/, "")
+		# returns hash with birth City and State
+		{city: playerBirthCity, state: playerBirthState}
+	end
 end
 
 RSpec.describe Player do
@@ -143,6 +151,17 @@ RSpec.describe Player do
 				expect(@bert.get_player_dob).to eq("1912-02-18")
 			end
 		end
+
+		describe '#get_player_birthplace' do
+
+			it 'returns "Ashland" as birth City' do
+				expect(@bert.get_player_birthplace[:city]).to eq("Ashland")
+			end
+
+			it 'returns "KY" as birth State' do
+				expect(@bert.get_player_birthplace[:state]).to eq("KY")
+			end
+		end
 	end
 
 	context 'Joe Namath' do
@@ -193,6 +212,18 @@ RSpec.describe Player do
 				expect(@joe.get_player_dob).to eq("1943-05-31")
 			end
 		end
+
+            describe '#get_player_birthplace' do
+
+                  it 'returns "Beaver Falls" as birth City' do
+                        expect(@joe.get_player_birthplace[:city]).to eq("Beaver Falls")
+                  end
+
+                  it 'returns "PA" as birth State' do
+                        expect(@joe.get_player_birthplace[:state]).to eq("PA")
+                  end
+            end
+
 	end
 
 	context 'Lawrence Taylor' do
@@ -236,6 +267,18 @@ RSpec.describe Player do
 				expect(@lt.get_player_dob).to eq("1959-02-04")
 			end
 		end
+
+            describe '#get_player_birthplace' do
+
+                  it 'returns "Williamsburg" as birth City' do
+                        expect(@lt.get_player_birthplace[:city]).to eq("Williamsburg")
+                  end
+
+                  it 'returns "VA" as birth State' do
+                        expect(@lt.get_player_birthplace[:state]).to eq("VA")
+                  end
+            end
+
         end
 
 
@@ -287,6 +330,18 @@ RSpec.describe Player do
 				expect(@drew.get_player_dob).to eq("1972-02-14")
 			end
 		end
+
+            describe '#get_player_birthplace' do
+
+                  it 'returns "Ellensburg" as birth City' do
+                        expect(@drew.get_player_birthplace[:city]).to eq("Ellensburg")
+                  end
+
+                  it 'returns "WA" as birth State' do
+                        expect(@drew.get_player_birthplace[:state]).to eq("WA")
+                  end
+            end
+
         end
 
 	context 'Josh Allen' do
@@ -337,6 +392,18 @@ RSpec.describe Player do
 				expect(@josh.get_player_dob).to eq("1996-05-21")
 			end
 		end
+
+            describe '#get_player_birthplace' do
+
+                  it 'returns "Firebaugh" as birth City' do
+                        expect(@josh.get_player_birthplace[:city]).to eq("Firebaugh")
+                  end
+
+                  it 'returns "CA" as birth State' do
+                        expect(@josh.get_player_birthplace[:state]).to eq("CA")
+                  end
+            end
+
 	end
 
 
@@ -388,6 +455,18 @@ RSpec.describe Player do
 				expect(@tebow.get_player_dob).to eq("1987-08-14")
 			end
 		end
+
+            describe '#get_player_birthplace' do
+
+                  it 'returns "Makati" as birth City' do
+                        expect(@tebow.get_player_birthplace[:city]).to eq("Makati")
+                  end
+
+                  it 'returns "Phillipines" as birth State' do
+                        expect(@tebow.get_player_birthplace[:state]).to eq("Phillipines")
+                  end
+            end
+
       end
 
 end
