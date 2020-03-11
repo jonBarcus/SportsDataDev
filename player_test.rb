@@ -115,6 +115,47 @@ class Player
 
 		{college: player_college, hs: player_hs}
 	end
+
+	def get_player_drafted?
+		
+		player_drafted = $playerDetails[7].content
+
+		if player_drafted.include?("Draft:") == true
+
+			return true
+		else
+			return false
+		end
+
+	end
+
+	def get_player_draft
+		#binding.pry
+		if get_player_drafted?
+			
+			player_draft_year = $playerDetails[7].content
+			player_draft_year = player_draft_year.scan(/19\w{2}|20\w{2}/)
+
+			if player_draft_year.count > 1
+		
+				# this will return the local NFL draft class url
+				hidden_player_draft_url = $playerDetails[7].children[8].attributes["href"].value
+				# this will return the local AFL draft class url (if there is one)
+				hidden_player_afl_draft_url = $playerDetails[7].children[4].attributes["href"].value
+
+				{afl: player_draft_year[0], nfl: player_draft_year[1], afl_url: hidden_player_afl_draft_url, nfl_url: hidden_player_nfl_draft_url}
+	
+			else
+				#binding.pry
+				hidden_player_draft_url = $playerDetails[7].children[2].attributes["href"].value
+
+				{nfl: player_draft_year[0], nfl_url: hidden_player_draft_url}
+			end
+		else
+			return nil
+		end
+		
+	end
 end
 
 RSpec.describe Player do
@@ -187,6 +228,14 @@ RSpec.describe Player do
 			it 'returns "Kentucky" as the college' do
 				expect(@bert.get_player_schools[:college]).to eq("Kentucky")
 			end
+		end
+
+		describe '#get_player_draft' do
+
+			it 'returns "1937" as the draft class' do
+				expect(@bert.get_player_draft[:nfl]).to eq("1937")
+			end
+
 		end
 	end
 
@@ -262,6 +311,15 @@ RSpec.describe Player do
 
 		end
 
+		describe '#get_player_draft' do
+
+			it 'returns "1965" for both AFL and NFL drafts' do
+				expect(@joe.get_player_draft[:nfl]).to eq("1965")
+				expect(@joe.get_player_draft[:afl]).to eq("1965")
+			end
+
+		end
+
 	end
 
 	context 'Lawrence Taylor' do
@@ -325,6 +383,13 @@ RSpec.describe Player do
 
 			it 'returns "Lafayette (VA)" as the HS' do
 				expect(@lt.get_player_schools[:hs]).to eq("Lafayette (VA)")
+			end
+		end
+
+		describe '#get_player_draft' do
+
+			it 'returns "1981" as the draft' do
+				expect(@lt.get_player_draft[:nfl]).to eq("1981")
 			end
 		end
 
@@ -402,6 +467,13 @@ RSpec.describe Player do
 			end
 		end
 
+		describe '#get_player_draft' do
+
+			it 'returns "1993" as the draft' do
+				expect(@drew.get_player_draft[:nfl]).to eq("1993")
+			end
+		end
+
         end
 
 	context 'Josh Allen' do
@@ -472,6 +544,13 @@ RSpec.describe Player do
 
 			it 'returns "Firebaugh (CA)" as the high school' do
 				expect(@josh.get_player_schools[:hs]).to eq("Firebaugh (CA)")
+			end
+		end
+
+		describe '#get_player_draft' do
+
+			it 'returns "2018" as the draft' do
+				expect(@josh.get_player_draft[:nfl]).to eq("2018")
 			end
 		end
 
@@ -548,7 +627,13 @@ RSpec.describe Player do
 				expect(@tebow.get_player_schools[:hs]).to eq("Allen D. Nease (FL)")
 			end
 		end
-
+		
+		describe '#get_player_draft' do
+	
+			it 'returns "2010" as the draft' do
+				expect(@tebow.get_player_draft[:nfl]).to eq("2010")
+			end
+		end
       end
 
 end
