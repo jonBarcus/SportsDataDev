@@ -139,7 +139,7 @@ class Player
 			if player_draft_year.count > 1
 		
 				# this will return the local NFL draft class url
-				hidden_player_draft_url = $playerDetails[7].children[8].attributes["href"].value
+				hidden_player_nfl_draft_url = $playerDetails[7].children[8].attributes["href"].value
 				# this will return the local AFL draft class url (if there is one)
 				hidden_player_afl_draft_url = $playerDetails[7].children[4].attributes["href"].value
 
