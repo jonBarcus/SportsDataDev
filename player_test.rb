@@ -103,15 +103,17 @@ class Player
 		{city: playerBirthCity, state: playerBirthState}
 	end
 
-	def get_player_school
+	def get_player_schools
 
 		if $playerDetails[4].content.include?("College:") == true
-			player_school = $playerDetails[4].content.gsub(/(College:)\W+\t\b|\W+$|\W+\b(College Stats)/, "")
+			player_college = $playerDetails[4].content.gsub(/(College:)\W+\t\b|\W+$|\W+\b(College Stats)/, "")
+			player_hs = $playerDetails[6].content.gsub(/(High School:)\W+|[^)]*$/, "")
 		else
-			player_school = $playerDetails[5].content.gsub(/(College:)\W+\t\b|\W+$/, "")
+			player_college = $playerDetails[5].content.gsub(/(College:)\W+\t\b|\W+$/, "")
 		end
 		
-		player_school
+
+		{college: player_college, hs: player_hs}
 	end
 end
 
@@ -180,10 +182,10 @@ RSpec.describe Player do
 			end
 		end
 
-		describe '#get_player_birthplace' do
+		describe '#get_player_schools' do
 
-			it 'returns "Kentucky" as school' do
-				expect(@bert.get_player_school).to eq("Kentucky")
+			it 'returns "Kentucky" as the college' do
+				expect(@bert.get_player_schools[:college]).to eq("Kentucky")
 			end
 		end
 	end
@@ -248,11 +250,16 @@ RSpec.describe Player do
                   end
             end
 
-		describe '#get_player_school' do
+		describe '#get_player_schools' do
 	
 			it 'returns "Alabama" as the school' do
-				expect(@joe.get_player_school).to eq("Alabama")
+				expect(@joe.get_player_schools[:college]).to eq("Alabama")
 			end
+			
+			it 'returns "Beaver Falls (PA)" as the HS' do
+				expect(@joe.get_player_schools[:hs]).to eq("Beaver Falls (PA)")
+			end
+
 		end
 
 	end
@@ -310,10 +317,14 @@ RSpec.describe Player do
                   end
             end
 
-		describe '#get_player_school' do
+		describe '#get_player_schools' do
 		
-			it 'returns "North Carolina" as the school' do
-				expect(@lt.get_player_school).to eq("North Carolina")
+			it 'returns "North Carolina" as the college' do
+				expect(@lt.get_player_schools[:college]).to eq("North Carolina")
+			end
+
+			it 'returns "Lafayette (VA)" as the HS' do
+				expect(@lt.get_player_schools[:hs]).to eq("Lafayette (VA)")
 			end
 		end
 
@@ -380,10 +391,14 @@ RSpec.describe Player do
                   end
             end
 
-		describe '#get_player_school' do
+		describe '#get_player_schools' do
 
-			it 'returns "Washington St" as the school' do
-				expect(@drew.get_player_school).to eq("Washington St")
+			it 'returns "Washington St" as the college' do
+				expect(@drew.get_player_schools[:college]).to eq("Washington St")
+			end
+
+			it 'returns "Walla Walla (WA)" as the high school' do
+				expect(@drew.get_player_schools[:hs]).to eq("Walla Walla (WA)")
 			end
 		end
 
@@ -449,10 +464,14 @@ RSpec.describe Player do
                   end
             end
 
-		describe '#get_player_school' do
+		describe '#get_player_schools' do
 
-			it 'returns "Wyoming" as the school' do
-				expect(@josh.get_player_school).to eq("Wyoming")
+			it 'returns "Wyoming" as the college' do
+				expect(@josh.get_player_schools[:college]).to eq("Wyoming")
+			end
+
+			it 'returns "Firebaugh (CA)" as the high school' do
+				expect(@josh.get_player_schools[:hs]).to eq("Firebaugh (CA)")
 			end
 		end
 
@@ -519,10 +538,14 @@ RSpec.describe Player do
                   end
             end
 
-		describe '#get_player_school' do
+		describe '#get_player_schools' do
 
-			it 'returns "Florida" as the school' do
-				expect(@tebow.get_player_school).to eq("Florida")
+			it 'returns "Florida" as the college' do
+				expect(@tebow.get_player_schools[:college]).to eq("Florida")
+			end
+		
+			it 'returns "Allen D. Nease (FL)" as the high school' do
+				expect(@tebow.get_player_schools[:hs]).to eq("Allen D. Nease (FL)")
 			end
 		end
 
